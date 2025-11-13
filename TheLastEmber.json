@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 244,
+    "build": 245,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -600,6 +600,110 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 5/Character/Wispy Fire/785939f340033b4daa4e0c0cb86e76ade974f82dd5d5cf86021fea4849665d70_Wispy Fire_Weak Flicker_5.png",
           "name": "Wispy Fire_Weak Flicker_5.png"
         }
+      },
+      {
+        "file": "assets/Wood.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wood.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Item Pack/Resources/615cfbe014db2eb7e0bb5e31849d89ee3763ee7e2550c51f42b277584d75d634_Wood.png",
+          "name": "Wood.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Background.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Background/e10d4d02f445ddc7daf068b27546f89a8fe1f2ecb3e5c8ce21a73c8dbc8234b7_tiled_Background.png",
+          "name": "tiled_Background.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Starry Background Solid Colour.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/tiled_Starry Background Solid Colour.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_Starry Background Solid Colour.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/FoozleCC/Void Collection/Environment Pack/Backgrounds/0c1c754c8dbb456e059f31544e5cb51ee3de171b0a70c482d1d144c3e1bc2156_tiled_Starry Background Solid Colour.png",
+          "name": "tiled_Starry Background Solid Colour.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Stars.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/tiled_Stars.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_Stars.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Background/4d8cfdae4934a160d7a712ac0242ffb00a330637bf9373f0870af014671423ea_tiled_Stars.png",
+          "name": "tiled_Stars.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Stars.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_Stars.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Desert Background 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Desert Background 2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/bf4724f5bc368533cc629b61c161ab24120a7212e1dde3387f5f003ce4d8eb3c_tiled_Desert Background 2.png",
+          "name": "tiled_Desert Background 2.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Brown Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Brown Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Background/555e89f3f3430c9707ca0ed776cb9acf82621fa846286732e60bf5c9c615aa83_tiled_Brown Background.png",
+          "name": "tiled_Brown Background.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Desert Tile Platform Center.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Desert Tile Platform Center.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Desert/Platform/ccdf18deff6eb08d904481bf09c5141717fdf1ca39671c813beea2fb611e11e2_tiled_Desert Tile Platform Center.png",
+          "name": "tiled_Desert Tile Platform Center.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Sky Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Sky Background.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/Background/1532fe7a8e6c84b7b2547f1b3e9c3430546bd0adc86262971d99897b8ebef730_tiled_Sky Background.png",
+          "name": "tiled_Sky Background.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -611,6 +715,167 @@
   "objectsGroups": [],
   "variables": [],
   "layouts": [
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Start_32Screen",
+      "name": "Start Screen",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false,
+        "selectedLayer": ""
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 717,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Sky_Background",
+          "persistentUuid": "7470b291-945d-4a3a-9373-9ece11fc4945",
+          "width": 1280,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "3a50c8a940670eb3cd63065f30cd104b595ab49fd621a9b6b0b1b91996963f8d",
+          "height": 240,
+          "name": "Sky_Background",
+          "texture": "tiled_Sky Background.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 320,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Sky_Background"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TiledSpriteObject::XOffset"
+              },
+              "parameters": [
+                "Sky_Background",
+                "+",
+                "5"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": []
+    },
     {
       "b": 255,
       "disableInputWhenNotFocused": true,
@@ -631,7 +896,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4335774304702408,
+        "zoomFactor": 0.7370816317994086,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -680,8 +945,8 @@
           "name": "Joystick",
           "persistentUuid": "855d809a-f954-4072-86d5-1d6f0b24a066",
           "width": 0,
-          "x": 176,
-          "y": 576,
+          "x": 1862,
+          "y": 375,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -697,8 +962,8 @@
           "name": "JumpButton",
           "persistentUuid": "b1d437ce-f3b4-4799-875e-bb51f731cef0",
           "width": 120,
-          "x": 1104,
-          "y": 576,
+          "x": 1978,
+          "y": 450,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -840,9 +1105,9 @@
               "JumpButton": "A"
             },
             {
-              "ignoreDefaultControls": true,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "ignoreDefaultControls": true,
               "acceleration": 1000,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
@@ -2476,20 +2741,21 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "height": 64,
+          "assetStoreId": "734722d52956862823635227a2e24a48e10462962add6cb060d1b7004ca5a58e",
+          "height": 1024,
           "name": "Background",
-          "texture": "assets\\Background.png",
+          "texture": "tiled_Desert Background 2.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 64,
+          "width": 1024,
           "variables": [],
           "effects": [],
           "behaviors": []
         },
         {
           "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
+          "assetStoreId": "8b1b5cd05e75db021945587c37868589ea16996d6cc7e3eb4a3eb10571b6d142",
           "name": "Coins",
+          "preScale": 2,
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2501,12 +2767,12 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\StartingCoin.png",
+                      "image": "Wood.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2523,19 +2789,19 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 1
                           },
                           {
-                            "x": 19,
-                            "y": 0
+                            "x": 16,
+                            "y": 1
                           },
                           {
-                            "x": 19,
-                            "y": 18
+                            "x": 16,
+                            "y": 16
                           },
                           {
                             "x": 0,
-                            "y": 18
+                            "y": 16
                           }
                         ]
                       ]
@@ -2728,10 +2994,10 @@
           }
         },
         {
-          "assetStoreId": "",
-          "height": 64,
+          "assetStoreId": "e517e880684ebbd934245452a9a8f1d7aab6c19351bfd94a04bfd4206623643e",
+          "height": 47,
           "name": "Platform_Ground",
-          "texture": "assets\\StartingGround.png",
+          "texture": "tiled_Desert Tile Platform Center.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
