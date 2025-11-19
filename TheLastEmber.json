@@ -740,6 +740,620 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f0ede8843d544f6e84bc09299a8aabffbce558966f25af98f7b47ab1648217ce_Blue Button_Pressed.png",
           "name": "Blue Button_Pressed.png"
         }
+      },
+      {
+        "file": "assets/tiled_Stars.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\tiled_Stars.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Top-Down Simple Summer_Prop - Campfire.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Top-Down Simple Summer_Prop - Campfire.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_18.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_19.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Death_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Death_20.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_18.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_19.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_20.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_21.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_22.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_23.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_24.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_25.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_26.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_27.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_28.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_29.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_30.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_31.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_32.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_33.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_34.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_35.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_36.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_37.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_38.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_39.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_40.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_41.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Idle Flicker_42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Idle Flicker_42.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Weak Flicker_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Weak Flicker_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Weak Flicker_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Weak Flicker_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Weak Flicker_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Weak Flicker_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Weak Flicker_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Weak Flicker_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Weak Flicker_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Weak Flicker_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Weak Flicker_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Weak Flicker_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Weak Flicker_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Weak Flicker_7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Weak Flicker_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Weak Flicker_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Weak Flicker_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Weak Flicker_9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wispy Fire_Weak Flicker_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Wispy Fire_Weak Flicker_10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Blip 4.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "2d13990f8c40250a463018d3cacda8d099885ff8cbcf31b9a4644079008a19e6_Blip 4.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Blip/2d13990f8c40250a463018d3cacda8d099885ff8cbcf31b9a4644079008a19e6_Blip 4.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/assets_tiled_Stars.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\tiled_Stars",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1003,12 +1617,18 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7370816317994086,
-        "windowMask": false,
-        "selectedLayer": ""
+        "zoomFactor": 0.495084007374897,
+        "windowMask": true,
+        "selectedLayer": "MiniGame"
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "MiniAction",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -1187,6 +1807,56 @@
           "x": 1088,
           "y": 352,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 210,
+          "keepRatio": true,
+          "layer": "MiniGame",
+          "name": "MiniBackground",
+          "persistentUuid": "2f7f4a0d-fb59-455f-af39-c69cd76b0994",
+          "width": 340,
+          "x": 939,
+          "y": 509,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 92,
+          "keepRatio": true,
+          "layer": "MiniGame",
+          "name": "Campfire",
+          "persistentUuid": "6a2bba35-8b33-4fe0-86e8-cd76e9c89305",
+          "width": 115,
+          "x": 1142,
+          "y": 607,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "MiniGame",
+          "name": "Flame",
+          "persistentUuid": "09f9754a-1bd6-4bb4-be5a-9b81c176cb5b",
+          "width": 0,
+          "x": 1174,
+          "y": 591,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3118,11 +3788,2828 @@
               "yGrabOffset": 0
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "MiniBackground",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\tiled_Stars",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\tiled_Stars",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 200,
+                            "y": 0
+                          },
+                          {
+                            "x": 200,
+                            "y": 150
+                          },
+                          {
+                            "x": 0,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "8b1b5cd05e75db021945587c37868589ea16996d6cc7e3eb4a3eb10571b6d142",
+          "name": "Fuel",
+          "preScale": 2,
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Wood.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 16,
+                            "y": 1
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "8b1b5cd05e75db021945587c37868589ea16996d6cc7e3eb4a3eb10571b6d142",
+          "name": "Campfire",
+          "preScale": 2,
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Top-Down Simple Summer_Prop - Campfire.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 19
+                          },
+                          {
+                            "x": 179,
+                            "y": 19
+                          },
+                          {
+                            "x": 179,
+                            "y": 141
+                          },
+                          {
+                            "x": 26,
+                            "y": 141
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "8b1b5cd05e75db021945587c37868589ea16996d6cc7e3eb4a3eb10571b6d142",
+          "name": "Flame",
+          "preScale": 2,
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Death_20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_29.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_30.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_31.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_32.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_33.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_34.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_35.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_36.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_37.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_38.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_39.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_40.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_41.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Idle Flicker_42.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Weak Flicker_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Weak Flicker_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Weak Flicker_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Weak Flicker_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Weak Flicker_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Weak Flicker_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Weak Flicker_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Weak Flicker_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Weak Flicker_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Wispy Fire_Weak Flicker_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 10
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
+          {
+            "folderName": "MiniGame Assets",
+            "children": [
+              {
+                "objectName": "MiniBackground"
+              },
+              {
+                "objectName": "Fuel"
+              },
+              {
+                "objectName": "Campfire"
+              },
+              {
+                "objectName": "Flame"
+              }
+            ]
+          },
           {
             "objectName": "Platformer_Character"
           },
@@ -3149,6 +6636,20 @@
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -3185,6 +6686,16 @@
                 "",
                 "80",
                 "RandomFloatInRange(1,1.1)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MiniAction",
+                "True",
+                ""
               ]
             }
           ]
@@ -3313,6 +6824,308 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "\nBelow is the MiniGame Events, I am setting up a basic one but eventually it should have a few that could be chosen potentially"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Up\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"MiniGame\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Down\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"MiniGame\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Flame",
+                    "\"Strength\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "When health is implemented this should decrease it"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Flame",
+                    "\"Strength\"",
+                    ">=",
+                    "5"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Flame",
+                    "\"Strength\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "MiniAction",
+                    "True",
+                    "true"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "MiniAction",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Fuel",
+                    "970",
+                    "630\n",
+                    "\"MiniGame\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Spawn",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Spawn",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Spawn",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceVers"
+                  },
+                  "parameters": [
+                    "Fuel",
+                    "Campfire",
+                    "50",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Fuel",
+                    "Campfire",
+                    "100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Return\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "2d13990f8c40250a463018d3cacda8d099885ff8cbcf31b9a4644079008a19e6_Blip 4.aac",
+                    "",
+                    "",
+                    "RandomFloatInRange(0,1.1)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Fuel",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Fuel",
+                    "Campfire",
+                    "0",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Fuel",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "variables": [
+            {
+              "name": "Spawn",
+              "type": "boolean",
+              "value": false
+            }
+          ]
         }
       ],
       "layers": [
@@ -3360,6 +7173,59 @@
             }
           ],
           "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "MiniGame",
+          "renderingType": "",
+          "visibility": false,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
         },
         {
           "ambientLightColorB": 200,
