@@ -1894,6 +1894,34 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/3b63cabfcd253559f524c401123efcb4fc882be12733ebc6796fc47746e71997_Fire Ball_9.png",
           "name": "Fire Ball_9.png"
         }
+      },
+      {
+        "file": "assets/Jump_Land_01.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "c5b6689ddbd9a1456eb53244e251e525ca1bfa4fbdbb3ee731e881e85738b020_Jump_Land_01.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/Mud/Jump/c5b6689ddbd9a1456eb53244e251e525ca1bfa4fbdbb3ee731e881e85738b020_Jump_Land_01.wav",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Glass Breaking 1.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "24ff0a52cfcce9955d5ddeb47a10d5b5d50c398ccd52f242b50f8e3f1720700e_Glass Breaking 1.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Sound/24ff0a52cfcce9955d5ddeb47a10d5b5d50c398ccd52f242b50f8e3f1720700e_Glass Breaking 1.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -9475,6 +9503,107 @@
               "name": "Spawn",
               "type": "boolean",
               "value": false
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Fireball Collisions"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Fire_Ball",
+                "Platform_Ground",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Fire_Ball",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "c5b6689ddbd9a1456eb53244e251e525ca1bfa4fbdbb3ee731e881e85738b020_Jump_Land_01.wav",
+                "",
+                "100",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Fire_Ball",
+                "Coins",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "24ff0a52cfcce9955d5ddeb47a10d5b5d50c398ccd52f242b50f8e3f1720700e_Glass Breaking 1.aac",
+                "",
+                "100",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Coins",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Fire_Ball",
+                ""
+              ]
             }
           ]
         }
