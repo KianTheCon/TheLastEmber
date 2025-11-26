@@ -1942,8 +1942,64 @@
       {
         "file": "assets/miniBackground.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/miniBackground.png\",\"extension\":\".png\"}",
         "name": "assets\\miniBackground.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "black.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "black.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "color-map-original-mosaic.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "color-map-original-mosaic.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "color-map-original-lowres.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "color-map-original-lowres.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ScopeReplace.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "ScopeReplace",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_scopeWhite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\scopeWhite",
         "smoothed": true,
         "userAdded": false
       }
@@ -2209,9 +2265,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.392516117548829,
+        "zoomFactor": 0.1770859527754421,
         "windowMask": true,
-        "selectedLayer": "Map"
+        "selectedLayer": "Scope"
       },
       "objectsGroups": [],
       "variables": [
@@ -2227,22 +2283,6 @@
         }
       ],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 78.99999999999999,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Platformer_Character",
-          "persistentUuid": "4ded1d81-e820-41d3-868a-3f314e5850bd",
-          "width": 79,
-          "x": 150,
-          "y": 55,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": true,
@@ -2297,8 +2337,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
-          "keepRatio": true,
+          "height": 47,
           "layer": "",
           "name": "Platform_Ground",
           "persistentUuid": "1c4f7ab9-04d4-4cee-8572-96199ce1245c",
@@ -2314,8 +2353,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
-          "keepRatio": true,
+          "height": 47,
           "layer": "",
           "name": "Platform_Ground",
           "persistentUuid": "672ee5c6-d2bb-4ae4-bc77-78d15064dd68",
@@ -2331,8 +2369,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
-          "keepRatio": true,
+          "height": 47,
           "layer": "",
           "name": "Platform_Ground",
           "persistentUuid": "e595746c-dfaa-4c91-a246-d36934b5a906",
@@ -2461,16 +2498,97 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 301,
+          "depth": 0,
+          "height": 360,
           "keepRatio": true,
           "layer": "Map",
-          "name": "MiniBackground",
-          "persistentUuid": "f64a5988-b872-4258-b146-1316f039bf1b",
-          "width": 469,
-          "x": 415,
-          "y": 230,
-          "zOrder": 10,
+          "name": "MapBackground",
+          "persistentUuid": "fa6f82ce-3b80-4f90-b047-259f5e20e7c3",
+          "width": 640,
+          "x": 286,
+          "y": 197,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.0945945945945947,
+          "height": 324,
+          "keepRatio": true,
+          "layer": "Map",
+          "name": "MapSprite",
+          "persistentUuid": "2a2e1a6a-762b-46da-8bb0-4b3325087185",
+          "width": 576,
+          "x": 348,
+          "y": 227,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 47,
+          "layer": "",
+          "name": "Platform_Ground",
+          "persistentUuid": "55341cae-7ab9-48b4-b4d8-a501fa59ab9c",
+          "width": 288,
+          "x": 1404,
+          "y": 415,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 78.99999999999999,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platformer_Character",
+          "persistentUuid": "98e40da7-9741-4f3f-b156-cb3296f94a6e",
+          "width": 79,
+          "x": 151,
+          "y": 106,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 47,
+          "layer": "",
+          "name": "Platform_Ground",
+          "persistentUuid": "f6694bbe-4e5e-4d43-9082-d9098430e399",
+          "width": 288,
+          "x": 1971,
+          "y": 409,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 47,
+          "layer": "",
+          "name": "Platform_Ground",
+          "persistentUuid": "7ba57093-625d-4cd2-9488-d3dd0bf42769",
+          "width": 288,
+          "x": 68,
+          "y": 821,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2608,7 +2726,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.0476,
+                  "timeBetweenFrames": 0.15,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -4457,7 +4575,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\miniBackground.png",
+                      "image": "assets\\mapBackground.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8940,6 +9058,93 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "MapSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "ColorMap",
+              "name": "Effect",
+              "doubleParameters": {
+                "mix": 100
+              },
+              "stringParameters": {
+                "colorMapTexture": "black.png"
+              },
+              "booleanParameters": {
+                "nearest": false
+              }
+            },
+            {
+              "effectType": "ColorReplace",
+              "name": "Choose Color",
+              "doubleParameters": {
+                "epsilon": 1
+              },
+              "stringParameters": {
+                "newColor": "248;231;28",
+                "originalColor": "0;0;0"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\tiled_Stars",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\miniBackground.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 200,
+                            "y": 0
+                          },
+                          {
+                            "x": 200,
+                            "y": 150
+                          },
+                          {
+                            "x": 0,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -8961,6 +9166,9 @@
                 "objectName": "Flame"
               }
             ]
+          },
+          {
+            "objectName": "MapSprite"
           },
           {
             "objectName": "MapBackground"
@@ -9006,7 +9214,17 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"MiniGame\""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -9252,7 +9470,6 @@
           "comment": "Scoping Mechanic"
         },
         {
-          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -9262,6 +9479,16 @@
               "parameters": [
                 "",
                 "\"Right\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Scope",
+                "<=",
+                "1"
               ]
             }
           ],
@@ -9279,7 +9506,6 @@
           ]
         },
         {
-          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -9307,7 +9533,6 @@
           ]
         },
         {
-          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -9318,6 +9543,16 @@
               "parameters": [
                 "",
                 "\"Right\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Scope",
+                ">=",
+                "1"
               ]
             }
           ],
@@ -9335,7 +9570,6 @@
           ]
         },
         {
-          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -9359,6 +9593,49 @@
                 "=",
                 "0"
               ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Right\""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "runtimeScene.setBackgroundColor(100,100,240);",
+                "var player = runtimeScene.getObjects(\"Platformer_Character\")[0];",
+                "var playerX = runtimeScene.getObjects(\"Platformer_Character\")[0].getX();",
+                "var playerY = runtimeScene.getObjects(\"Platformer_Character\")[0].getY();",
+                "var cursorX = runtimeScene.getGame().getInputManager().getCursorX();",
+                "var cursorY = runtimeScene.getGame().getInputManager().getCursorY();",
+                "var normX = (cursorX - playerX)/player.getDistanceToPosition(cursorX, cursorY);",
+                "var normY = (cursorY - playerY)/player.getDistanceToPosition(cursorX, cursorY);",
+                "",
+                "var scope = 1;//runtimeScene.getVariables().get(\"Scope\").getAsNumber();",
+                "",
+                "runtimeScene.getLayer(\"Base layer\").setCameraX((scope * normX * 400) + playerX);",
+                "runtimeScene.getLayer(\"Base layer\").setCameraY((scope * normY * 400) + playerY);"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             }
           ]
         },
@@ -9810,6 +10087,25 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "RenderToSprite::RenderLayerArea"
+              },
+              "parameters": [
+                "",
+                "",
+                "MapSprite",
+                "CameraWidth()*2",
+                "CameraHeight()*2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -9969,10 +10265,10 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": false,
+          "isLocked": true,
           "name": "MobileControls",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         },
@@ -34782,6 +35078,467 @@
           "sharedPropertyDescriptors": []
         }
       ],
+      "eventsBasedObjects": []
+    },
+    {
+      "author": "Arthur Pacaud (arthuro555)",
+      "category": "Advanced",
+      "extensionNamespace": "",
+      "fullName": "Sprite Snapshot",
+      "gdevelopVersion": ">=5.5.222",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWNhbWVyYS1lbmhhbmNlIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTksM0w3LjE3LDVINEEyLDIgMCAwLDAgMiw3VjE5QTIsMiAwIDAsMCA0LDIxSDIwQTIsMiAwIDAsMCAyMiwxOVY3QTIsMiAwIDAsMCAyMCw1SDE2LjgzTDE1LDNNMTIsMThBNSw1IDAgMCwxIDcsMTNBNSw1IDAgMCwxIDEyLDhBNSw1IDAgMCwxIDE3LDEzQTUsNSAwIDAsMSAxMiwxOE0xMiwxN0wxMy4yNSwxNC4yNUwxNiwxM0wxMy4yNSwxMS43NUwxMiw5TDEwLjc1LDExLjc1TDgsMTNMMTAuNzUsMTQuMjUiIC8+PC9zdmc+",
+      "name": "RenderToSprite",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/camera-enhance.svg",
+      "shortDescription": "Renders an object, layer, scene or an area of a scene and puts the resulting image into a sprite.",
+      "version": "0.0.4",
+      "description": [
+        "Allows rendering (creating an image) of objects, layers and the scene to display in a sprite. ",
+        "This allows to make optimizations by transforming the resulting image of a shape painter into a faster sprite, or to make viewports/cameras."
+      ],
+      "origin": {
+        "identifier": "RenderToSprite",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "experimental",
+        "non-public apis",
+        "visual",
+        "sprite",
+        "viewport",
+        "camera",
+        "render",
+        "texture",
+        "pixijs",
+        "snapshot"
+      ],
+      "authorIds": [
+        "ZgrsWuRTAkXgeuPV9bo0zuEcA2w1",
+        "PEzPAaWHgYgk5UwIPppsL6f2ugp2"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [
+        {
+          "fullName": "",
+          "functionType": "Action",
+          "name": "onFirstSceneLoaded",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "gdjs._renderToSprite = {};",
+                "gdjs._renderToSprite.rt = PIXI.RenderTexture.create({ width: 100, height: 100 });",
+                "gdjs._renderToSprite.sprite = PIXI.Sprite.from(gdjs._renderToSprite.rt);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Renders an object and puts the rendered image into a sprite object.",
+          "fullName": "Render an object into a sprite",
+          "functionType": "Action",
+          "name": "RenderObject",
+          "sentence": "Render _PARAM1_ into sprite _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const source = eventsFunctionContext.getObjects(\"source\")[0].getRendererObject();",
+                "const renderTarget = eventsFunctionContext.getObjects(\"renderTarget\")[0].getRendererObject();",
+                "",
+                "// Reset position so that it is not offscreen while rendering",
+                "const { x: originalX, y: originalY } = source.position;",
+                "const { width, height, x, y } = source.getLocalBounds();",
+                "source.position = { x: -x, y: -y };",
+                "",
+                "// Ensure the target is a RenderTexture of the correct size",
+                "if (renderTarget.texture instanceof PIXI.RenderTexture) {",
+                "    renderTarget.texture.resize(width, height);",
+                "} else {",
+                "    renderTarget.texture = PIXI.RenderTexture.create({",
+                "        width,",
+                "        height,",
+                "        scaleMode: runtimeScene.getGame().getScaleMode() === \"linear\"",
+                "            ? PIXI.SCALE_MODES.LINEAR",
+                "            : PIXI.SCALE_MODES.NEAREST",
+                "    });",
+                "}",
+                "",
+                "// Render 😎",
+                "runtimeScene",
+                "    .getGame()",
+                "    .getRenderer()",
+                "    .getPIXIRenderer()",
+                "    .render(source, { renderTexture: renderTarget.texture });",
+                "",
+                "// Restore original position",
+                "source.position = { x: originalX, y: originalY };",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The object to render",
+              "name": "source",
+              "type": "objectList"
+            },
+            {
+              "description": "The sprite to render to",
+              "name": "renderTarget",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Renders a layer and puts the rendered image into a sprite object.",
+          "fullName": "Render a layer into a sprite",
+          "functionType": "Action",
+          "name": "RenderLayer",
+          "sentence": "Render layer _PARAM1_ into sprite _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const source = runtimeScene.getLayer(eventsFunctionContext.getArgument(\"layer\")).getRenderer().getRendererObject();",
+                "const height = runtimeScene.getLayer(\"\").getCameraHeight();",
+                "const width = runtimeScene.getLayer(\"\").getCameraWidth();",
+                "/** @type {gdjs.SpriteRuntimeObject} */",
+                "const obj = objects[0];",
+                "/** @type {PIXI.Sprite} */",
+                "const renderTarget = obj.getRendererObject();",
+                "",
+                "// Prepare for render",
+                "runtimeScene._updateLayersPreRender();",
+                "runtimeScene._updateObjectsPreRender();",
+                "",
+                "// Ensure the target is a RenderTexture of the correct size",
+                "gdjs._renderToSprite.rt.resize(width, height)",
+                "if (renderTarget.texture instanceof PIXI.RenderTexture) {",
+                "    renderTarget.texture.resize(width, height);",
+                "} else {",
+                "    renderTarget.texture = PIXI.RenderTexture.create({",
+                "        width,",
+                "        height,",
+                "        scaleMode: runtimeScene.getGame().getScaleMode() === \"linear\"",
+                "            ? PIXI.SCALE_MODES.LINEAR",
+                "            : PIXI.SCALE_MODES.NEAREST",
+                "    });",
+                "}",
+                "",
+                "// Prerender to a temporary texture to prevent WebGL erroring out.",
+                "// See https://www.html5gamedevs.com/topic/45423-why-is-this-not-allowed/",
+                "runtimeScene",
+                "    .getGame()",
+                "    .getRenderer()",
+                "    .getPIXIRenderer()",
+                "    .render(source, { renderTexture: gdjs._renderToSprite.rt });",
+                "",
+                "// Actually render 😎",
+                "runtimeScene",
+                "    .getGame()",
+                "    .getRenderer()",
+                "    .getPIXIRenderer()",
+                "    .render(gdjs._renderToSprite.sprite, { renderTexture: renderTarget.texture });",
+                "",
+                "// Ensure the original width/heigth is restored",
+                "renderTarget.width = obj.getWidth();",
+                "renderTarget.height = obj.getHeight();",
+                ""
+              ],
+              "parameterObjects": "renderTarget",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The layer to render",
+              "name": "layer",
+              "supplementaryInformation": "Sprite",
+              "type": "layer"
+            },
+            {
+              "description": "The sprite to render to",
+              "name": "renderTarget",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "(edited) Renders a layer and puts the rendered image into a sprite object.",
+          "fullName": "Render an area of a layer into a sprite",
+          "functionType": "Action",
+          "name": "RenderLayerArea",
+          "sentence": "Render _PARAM3_, _PARAM4_ of layer _PARAM1_ into sprite _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "var x = 0;",
+                "const source = runtimeScene.getLayer(eventsFunctionContext.getArgument(\"layer\")).getRenderer().getRendererObject();",
+                "const height = eventsFunctionContext.getArgument(\"h\");",
+                "const width = eventsFunctionContext.getArgument(\"w\")",
+                "/** @type {gdjs.SpriteRuntimeObject} */",
+                "const obj = objects[0];",
+                "/** @type {PIXI.Sprite} */",
+                "const renderTarget = obj.getRendererObject();",
+                "",
+                "// Prepare for render",
+                "runtimeScene._updateLayersPreRender();",
+                "runtimeScene._updateObjectsPreRender();",
+                "",
+                "// Ensure the target is a RenderTexture of the correct size",
+                "gdjs._renderToSprite.rt.resize(width, height)",
+                "if (renderTarget.texture instanceof PIXI.RenderTexture) {",
+                "    renderTarget.texture.resize(width, height);",
+                "} else {",
+                "    renderTarget.texture = PIXI.RenderTexture.create({",
+                "        width,",
+                "        height,",
+                "        scaleMode: runtimeScene.getGame().getScaleMode() === \"linear\"",
+                "            ? PIXI.SCALE_MODES.LINEAR",
+                "            : PIXI.SCALE_MODES.NEAREST",
+                "    });",
+                "}",
+                "",
+                "// Prerender to a temporary texture to prevent WebGL erroring out.",
+                "// See https://www.html5gamedevs.com/topic/45423-why-is-this-not-allowed/",
+                "runtimeScene",
+                "    .getGame()",
+                "    .getRenderer()",
+                "    .getPIXIRenderer()",
+                "    .render(source, { renderTexture: gdjs._renderToSprite.rt });",
+                "",
+                "// Actually render 😎",
+                "runtimeScene",
+                "    .getGame()",
+                "    .getRenderer()",
+                "    .getPIXIRenderer()",
+                "    .render(gdjs._renderToSprite.sprite, { renderTexture: renderTarget.texture });",
+                "",
+                "// Ensure the original width/heigth is restored",
+                "renderTarget.width = obj.getWidth();",
+                "renderTarget.height = obj.getHeight();",
+                ""
+              ],
+              "parameterObjects": "renderTarget",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The layer to render",
+              "name": "layer",
+              "supplementaryInformation": "Sprite",
+              "type": "layer"
+            },
+            {
+              "description": "The sprite to render to",
+              "name": "renderTarget",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            },
+            {
+              "description": "Width",
+              "name": "w",
+              "type": "expression"
+            },
+            {
+              "description": "Height",
+              "name": "h",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Renders a scene and puts the rendered image into a sprite object.",
+          "fullName": "Render a scene into a sprite",
+          "functionType": "Action",
+          "name": "RenderScene",
+          "sentence": "Render the current scene into sprite _PARAM1_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const source = runtimeScene.getRenderer().getPIXIContainer();",
+                "const height = runtimeScene.getLayer(\"\").getCameraHeight();",
+                "const width = runtimeScene.getLayer(\"\").getCameraWidth();",
+                "/** @type {gdjs.SpriteRuntimeObject} */",
+                "const obj = objects[0];",
+                "/** @type {PIXI.Sprite} */",
+                "const renderTarget = obj.getRendererObject();",
+                "",
+                "// Prepare for render",
+                "runtimeScene._updateLayersPreRender();",
+                "runtimeScene._updateObjectsPreRender();",
+                "",
+                "// Ensure the target is a RenderTexture of the correct size",
+                "gdjs._renderToSprite.rt.resize(width, height);",
+                "if (renderTarget.texture instanceof PIXI.RenderTexture) {",
+                "    renderTarget.texture.resize(width, height);",
+                "} else {",
+                "    renderTarget.texture = PIXI.RenderTexture.create({",
+                "        width,",
+                "        height,",
+                "        scaleMode: runtimeScene.getGame().getScaleMode() === \"linear\"",
+                "            ? PIXI.SCALE_MODES.LINEAR",
+                "            : PIXI.SCALE_MODES.NEAREST",
+                "    });",
+                "}",
+                "",
+                "// Prerender to a temporary texture to prevent WebGL erroring out.",
+                "// See https://www.html5gamedevs.com/topic/45423-why-is-this-not-allowed/",
+                "runtimeScene",
+                "    .getGame()",
+                "    .getRenderer()",
+                "    .getPIXIRenderer()",
+                "    .render(source, { renderTexture: gdjs._renderToSprite.rt });",
+                "",
+                "// Actually render 😎",
+                "runtimeScene",
+                "    .getGame()",
+                "    .getRenderer()",
+                "    .getPIXIRenderer()",
+                "    .render(gdjs._renderToSprite.sprite, { renderTexture: renderTarget.texture });",
+                "",
+                "// Ensure the original width/heigth is restored",
+                "renderTarget.width = obj.getWidth();",
+                "renderTarget.height = obj.getHeight();",
+                ""
+              ],
+              "parameterObjects": "renderTarget",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The sprite to render to",
+              "name": "renderTarget",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Renders a defined area of a scene and puts the rendered image into a sprite object.",
+          "fullName": "Render an area of a scene into a sprite",
+          "functionType": "Action",
+          "name": "RenderSceneArea",
+          "sentence": "Render the area of a current scene into Sprite: _PARAM1_, from OriginX: _PARAM2_, OriginY: _PARAM3_, with Width: _PARAM4_, Height: _PARAM5_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const source = runtimeScene.getRenderer().getPIXIContainer();",
+                "source.x = eventsFunctionContext.getArgument(\"originPositionX\") * -1;",
+                "source.y = eventsFunctionContext.getArgument(\"originPositionY\") * -1;",
+                "const width = eventsFunctionContext.getArgument(\"areaWidth\");",
+                "const height = eventsFunctionContext.getArgument(\"areaHeight\");",
+                "/** @type {gdjs.SpriteRuntimeObject} */",
+                "const obj = objects[0];",
+                "/** @type {PIXI.Sprite} */",
+                "const renderTarget = obj.getRendererObject();",
+                "",
+                "// Prepare for render",
+                "runtimeScene._updateLayersPreRender();",
+                "runtimeScene._updateObjectsPreRender();",
+                "",
+                "// Ensure the target is a RenderTexture of the correct size",
+                "gdjs._renderToSprite.rt.resize(width, height);",
+                "if (renderTarget.texture instanceof PIXI.RenderTexture) {",
+                "    renderTarget.texture.resize(width, height);",
+                "} else {",
+                "    renderTarget.texture = PIXI.RenderTexture.create({",
+                "        width,",
+                "        height,",
+                "        scaleMode: runtimeScene.getGame().getScaleMode() === \"linear\"",
+                "            ? PIXI.SCALE_MODES.LINEAR",
+                "            : PIXI.SCALE_MODES.NEAREST",
+                "    });",
+                "}",
+                "",
+                "// Prerender to a temporary texture to prevent WebGL erroring out.",
+                "// See https://www.html5gamedevs.com/topic/45423-why-is-this-not-allowed/",
+                "runtimeScene",
+                "    .getGame()",
+                "    .getRenderer()",
+                "    .getPIXIRenderer()",
+                "    .render(source, { renderTexture: gdjs._renderToSprite.rt });",
+                "",
+                "// Actually render 😎",
+                "runtimeScene",
+                "    .getGame()",
+                "    .getRenderer()",
+                "    .getPIXIRenderer()",
+                "    .render(gdjs._renderToSprite.sprite, { renderTexture: renderTarget.texture });",
+                "",
+                "// Ensure the original width/heigth is restored",
+                "renderTarget.width = obj.getWidth();",
+                "renderTarget.height = obj.getHeight();",
+                "",
+                "//Return render area to original place",
+                "source.x = 0;",
+                "source.y = 0;",
+                ""
+              ],
+              "parameterObjects": "renderTarget",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The sprite to render to",
+              "name": "renderTarget",
+              "supplementaryInformation": "Sprite",
+              "type": "objectList"
+            },
+            {
+              "description": "Origin X position of the render area",
+              "name": "originPositionX",
+              "type": "expression"
+            },
+            {
+              "description": "Origin Y Position of the render area",
+              "name": "originPositionY",
+              "type": "expression"
+            },
+            {
+              "description": "Width of the are to render",
+              "name": "areaWidth",
+              "type": "expression"
+            },
+            {
+              "description": "Height of the area to render",
+              "name": "areaHeight",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [],
       "eventsBasedObjects": []
     }
   ],
