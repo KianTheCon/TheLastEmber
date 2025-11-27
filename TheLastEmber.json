@@ -2693,7 +2693,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9610368693715052,
+        "zoomFactor": 1.3841198046307321,
         "windowMask": true,
         "selectedLayer": "Scope"
       },
@@ -3341,10 +3341,44 @@
           "layer": "",
           "name": "Last_Platform",
           "persistentUuid": "72e17379-49c1-46b6-a622-6e54f7a306ba",
-          "width": 101,
+          "width": 319,
           "x": 4594,
           "y": -53,
           "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 146,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Last_Platform2",
+          "persistentUuid": "4e4c4231-b181-4179-96ea-7329e39d4147",
+          "width": 51,
+          "x": 4714,
+          "y": -152,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 18,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Last_Platform_OBJECT",
+          "persistentUuid": "f3a0c516-9f1f-48cc-abe7-49c21c8646e5",
+          "width": 13,
+          "x": 4778,
+          "y": -102,
+          "zOrder": 32,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10179,6 +10213,44 @@
               "yGrabOffset": 0
             }
           ]
+        },
+        {
+          "assetStoreId": "ae9c09db452c25baa181c7c533927b2f1713bb9bf28acf68f9bb01e4f64ebae3",
+          "height": 47,
+          "name": "Last_Platform2",
+          "texture": "tiled_Winter Tile Platform Center.png3",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 64,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "ae9c09db452c25baa181c7c533927b2f1713bb9bf28acf68f9bb01e4f64ebae3",
+          "height": 47,
+          "name": "Last_Platform_OBJECT",
+          "texture": "tiled_Winter Tile Platform Center.png3",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 64,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -10215,6 +10287,12 @@
           },
           {
             "objectName": "Last_Platform"
+          },
+          {
+            "objectName": "Last_Platform2"
+          },
+          {
+            "objectName": "Last_Platform_OBJECT"
           },
           {
             "objectName": "Floor_Bottom"
@@ -11175,6 +11253,62 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Fire_Ball",
+                "Last_Platform2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Fire_Ball",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Fire_Ball",
+                "Last_Platform",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Fire_Ball",
+                ""
+              ]
+            }
+          ]
+        },
+        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -11700,7 +11834,7 @@
               },
               "parameters": [
                 "Fire_Ball",
-                "Last_Platform",
+                "Last_Platform_OBJECT",
                 "",
                 "",
                 ""
