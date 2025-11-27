@@ -2978,8 +2978,8 @@
           "name": "Platformer_Character",
           "persistentUuid": "98e40da7-9741-4f3f-b156-cb3296f94a6e",
           "width": 79,
-          "x": 1516,
-          "y": 231,
+          "x": 99,
+          "y": 196,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -10754,6 +10754,43 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Fire_Ball",
+                "Ice",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Ice",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Fire_Ball",
+                ""
+              ]
+            }
+          ]
+        },
+        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -10845,7 +10882,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Death Zones"
+          "comment": "Death Zones/Objects"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -10954,10 +10991,11 @@
           "actions": [
             {
               "type": {
-                "value": "Cache"
+                "value": "Delete"
               },
               "parameters": [
-                "Ice"
+                "Ice",
+                ""
               ]
             },
             {
