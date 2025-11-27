@@ -81,6 +81,7 @@
     "authorUsernames": [],
     "categories": [],
     "playableDevices": [
+      "mobile",
       "mobile"
     ],
     "extensionProperties": [],
@@ -2359,8 +2360,10 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
+        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
+        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
@@ -2578,7 +2581,7 @@
               },
               "parameters": [
                 "",
-                "\"Game Scene\"",
+                "\"Level 1\"",
                 ""
               ]
             }
@@ -2674,8 +2677,8 @@
     {
       "b": 255,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Game_32Scene",
-      "name": "Game Scene",
+      "mangledName": "Level_321",
+      "name": "Level 1",
       "r": 255,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -2693,7 +2696,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.3841198046307321,
+        "zoomFactor": 0.49508400737490627,
         "windowMask": true,
         "selectedLayer": "Scope"
       },
@@ -12640,7 +12643,7 @@
               },
               "parameters": [
                 "",
-                "\"Game Scene\"",
+                "\"Level 1\"",
                 ""
               ]
             }
