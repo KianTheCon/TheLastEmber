@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 245,
+    "build": 246,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -80,7 +80,9 @@
     "authorIds": [],
     "authorUsernames": [],
     "categories": [],
-    "playableDevices": [],
+    "playableDevices": [
+      "mobile"
+    ],
     "extensionProperties": [],
     "platforms": [
       {
@@ -2333,8 +2335,7 @@
         "smoothed": true,
         "userAdded": false
       }
-    ],
-    "resourceFolders": []
+    ]
   },
   "objects": [],
   "objectsFolderStructure": {
@@ -2589,6 +2590,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -2684,12 +2686,14 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
+        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
+        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5468750000000115,
+        "zoomFactor": 0.7619362677197785,
         "windowMask": true,
         "selectedLayer": "Scope"
       },
@@ -2702,6 +2706,11 @@
         },
         {
           "name": "Scope",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Movement",
           "type": "number",
           "value": 0
         }
@@ -2994,8 +3003,8 @@
           "name": "Platform_Ground",
           "persistentUuid": "f6694bbe-4e5e-4d43-9082-d9098430e399",
           "width": 422,
-          "x": 1971,
-          "y": 409,
+          "x": 1967,
+          "y": 418,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -3026,7 +3035,7 @@
           "layer": "",
           "name": "DeathZone",
           "persistentUuid": "5c75b384-de8b-4078-b0fb-cbbf9363b941",
-          "width": 3445,
+          "width": 4865,
           "x": -76,
           "y": 1449,
           "zOrder": 14,
@@ -3115,6 +3124,156 @@
           "x": 2183,
           "y": -3,
           "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 103,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor_Left",
+          "persistentUuid": "cb2d302c-68ec-45b9-b770-eaa4eb3f565e",
+          "width": 64,
+          "x": 3165,
+          "y": 381,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Moving_Ice_Floor",
+          "persistentUuid": "7ee5c844-c288-48cf-b574-bcf7bb608554",
+          "width": 0,
+          "x": 3225,
+          "y": 409,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 122,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor_Right",
+          "persistentUuid": "262a0c63-e98e-46c1-b24b-d8f730e960c4",
+          "width": 64,
+          "x": 3585,
+          "y": 382,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 138,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor_Left",
+          "persistentUuid": "f7699274-3623-45ab-9af2-7e9ba022c97f",
+          "width": 64,
+          "x": 3586,
+          "y": 503,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Moving_Ice_Floor",
+          "persistentUuid": "b09616bd-847d-48b8-bbe2-952b1fb94d02",
+          "width": 0,
+          "x": 3650,
+          "y": 549,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 141,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor_Right",
+          "persistentUuid": "abb16a57-93df-4a2d-8287-2ca1217c4e91",
+          "width": 64,
+          "x": 3953,
+          "y": 493,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 108,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor_Left",
+          "persistentUuid": "948591d8-984e-4f0e-94a4-08ed49161498",
+          "width": 64,
+          "x": 4042,
+          "y": 371,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Moving_Ice_Floor",
+          "persistentUuid": "1dc98bfd-cf39-4028-89b7-2daa57d706dd",
+          "width": 0,
+          "x": 4098,
+          "y": 403,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 118,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor_Right",
+          "persistentUuid": "470e3729-c2b4-412e-8ef8-0793cfa86e7f",
+          "width": 64,
+          "x": 4392,
+          "y": 326,
+          "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9816,6 +9975,63 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "ae9c09db452c25baa181c7c533927b2f1713bb9bf28acf68f9bb01e4f64ebae3",
+          "height": 47,
+          "name": "Moving_Ice_Floor",
+          "texture": "tiled_Winter Tile Platform Center.png3",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 64,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "ae9c09db452c25baa181c7c533927b2f1713bb9bf28acf68f9bb01e4f64ebae3",
+          "height": 47,
+          "name": "Floor_Left",
+          "texture": "tiled_Winter Tile Platform Center.png3",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 64,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "ae9c09db452c25baa181c7c533927b2f1713bb9bf28acf68f9bb01e4f64ebae3",
+          "height": 47,
+          "name": "Floor_Right",
+          "texture": "tiled_Winter Tile Platform Center.png3",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 64,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -9849,6 +10065,15 @@
           },
           {
             "objectName": "Platform_Ground"
+          },
+          {
+            "objectName": "Moving_Ice_Floor"
+          },
+          {
+            "objectName": "Floor_Left"
+          },
+          {
+            "objectName": "Floor_Right"
           },
           {
             "objectName": "Background"
@@ -10127,7 +10352,7 @@
                 "Platformer_Character",
                 "FireBullet",
                 "Platformer_Character.X()",
-                "Platformer_Character.Y()",
+                "Platformer_Character.Y() - 10",
                 "Fire_Ball",
                 "CursorX()",
                 "CursorY()",
@@ -11011,6 +11236,132 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Moving Ground"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Moving_Ice_Floor",
+                "Floor_Left",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Movement",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Movement",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "Moving_Ice_Floor",
+                "+200",
+                "0",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Floor_Right",
+                "Moving_Ice_Floor",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Movement",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Movement",
+                "=",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "Moving_Ice_Floor",
+                "-200",
+                "0",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -11018,6 +11369,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -11035,6 +11387,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -11063,6 +11416,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -11116,6 +11470,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -11133,6 +11488,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -11829,6 +12185,7 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -22408,6 +22765,7 @@
               "ambientLightColorB": 200,
               "ambientLightColorG": 200,
               "ambientLightColorR": 200,
+              "camera2DPlaneMaxDrawingDistance": 5000,
               "camera3DFarPlaneDistance": 10000,
               "camera3DFieldOfView": 45,
               "camera3DNearPlaneDistance": 3,
@@ -30106,6 +30464,7 @@
               "ambientLightColorB": 200,
               "ambientLightColorG": 200,
               "ambientLightColorR": 200,
+              "camera2DPlaneMaxDrawingDistance": 5000,
               "camera3DFarPlaneDistance": 10000,
               "camera3DFieldOfView": 45,
               "camera3DNearPlaneDistance": 3,
@@ -31591,6 +31950,7 @@
                   "ambientLightColorB": 200,
                   "ambientLightColorG": 200,
                   "ambientLightColorR": 200,
+                  "camera2DPlaneMaxDrawingDistance": 5000,
                   "camera3DFarPlaneDistance": 10000,
                   "camera3DFieldOfView": 45,
                   "camera3DNearPlaneDistance": 3,
@@ -31906,6 +32266,7 @@
                   "ambientLightColorB": 200,
                   "ambientLightColorG": 200,
                   "ambientLightColorR": 200,
+                  "camera2DPlaneMaxDrawingDistance": 5000,
                   "camera3DFarPlaneDistance": 10000,
                   "camera3DFieldOfView": 45,
                   "camera3DNearPlaneDistance": 3,
@@ -32221,6 +32582,7 @@
                   "ambientLightColorB": 200,
                   "ambientLightColorG": 200,
                   "ambientLightColorR": 200,
+                  "camera2DPlaneMaxDrawingDistance": 5000,
                   "camera3DFarPlaneDistance": 10000,
                   "camera3DFieldOfView": 45,
                   "camera3DNearPlaneDistance": 3,
@@ -32536,6 +32898,7 @@
                   "ambientLightColorB": 200,
                   "ambientLightColorG": 200,
                   "ambientLightColorR": 200,
+                  "camera2DPlaneMaxDrawingDistance": 5000,
                   "camera3DFarPlaneDistance": 10000,
                   "camera3DFieldOfView": 45,
                   "camera3DNearPlaneDistance": 3,
