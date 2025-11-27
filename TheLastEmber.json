@@ -696,7 +696,7 @@
       {
         "file": "assets/tiled_Sky Background.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/tiled_Sky Background.png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "tiled_Sky Background.png",
         "smoothed": false,
         "userAdded": false,
@@ -2172,6 +2172,166 @@
         "name": "DeathZone",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Sky Background.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_Sky Background.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Sky Background.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/tiled_Sky Background.png3.png\"}",
+        "name": "tiled_Sky Background.png3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Screenshot 2025-11-26 203848.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Screenshot 2025-11-26 203848.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Red Button With Metal Frame_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Metal Frame_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b22a9a1823c086427abcdbec14ef49d5a49e6999d8970476bdb7c022b62d8dcc_Red Button With Metal Frame_Hovered.png",
+          "name": "Red Button With Metal Frame_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Metal Frame_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Metal Frame_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c89bb37a1b97b101b601ba39bce50d74964264704d0644735a08c0986e122294_Red Button With Metal Frame_Idle.png",
+          "name": "Red Button With Metal Frame_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Metal Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Metal Frame_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ff00ce0a7031e00560a3844ca90fbf73a45c42c8f6659e018110fc8c45c9982e_Red Button With Metal Frame_Pressed.png",
+          "name": "Red Button With Metal Frame_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Sky Background.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/tiled_Sky Background.png4.png\"}",
+        "name": "tiled_Sky Background.png4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Winter Tile Platform Center.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Winter Tile Platform Center.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Winter/Platform/30babf0d3c34d0ccb4614c7da1d8a2e707582c2c2217d21aef087f9dc5bf1a51_tiled_Winter Tile Platform Center.png",
+          "name": "tiled_Winter Tile Platform Center.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Winter Tile Platform Center.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/tiled_Winter Tile Platform Center.png2.png\"}",
+        "name": "tiled_Winter Tile Platform Center.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_background fade hills.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_background fade hills.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney New Platformer Pack 1.0/Backgrounds/eba9bb7b41b3ef468bfe0060ace222375328d34f7ca0f23c30a0264b0ba0e7a9_tiled_background fade hills.png",
+          "name": "tiled_background fade hills.png"
+        }
+      },
+      {
+        "file": "assets/tiled_background solid cloud.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_background solid cloud.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney New Platformer Pack 1.0/Backgrounds/5972fb973429c9b59db194efd0c778f5601295f32481f34363ea91f790f2f84c_tiled_background solid cloud.png",
+          "name": "tiled_background solid cloud.png"
+        }
+      },
+      {
+        "file": "assets/tiled_background fade trees.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_background fade trees.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney New Platformer Pack 1.0/Backgrounds/58f920fda0cee155265c5016d97a0c4d3c557b498291eb2ba665206c62344022_tiled_background fade trees.png",
+          "name": "tiled_background fade trees.png"
+        }
+      },
+      {
+        "file": "assets/tiled_background fade trees.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_background fade trees.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Ice Sword.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Ice Sword.png\",\"extension\":\".png\"}",
+        "name": "Ice Sword.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Weird Swords/8e1ae9b15360fbf57a34d7942d5c984cc10cf52261841dc3305d1c4021e4cb4d_Ice Sword.png",
+          "name": "Ice Sword.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Winter Tile Platform Center.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/tiled_Winter Tile Platform Center.png3.png\"}",
+        "name": "tiled_Winter Tile Platform Center.png3",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2203,7 +2363,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.7876290101673753,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -2214,14 +2374,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 717,
+          "height": 832,
           "keepRatio": true,
           "layer": "",
           "name": "Sky_Background",
           "persistentUuid": "7470b291-945d-4a3a-9373-9ece11fc4945",
-          "width": 1280,
-          "x": 0,
-          "y": 0,
+          "width": 1397,
+          "x": -35,
+          "y": -62,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2229,16 +2389,51 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 64,
+          "height": 47,
           "keepRatio": true,
           "layer": "",
           "name": "Start",
           "persistentUuid": "4d9b307d-8b7c-41bb-8955-d627e5a812c0",
-          "width": 0,
-          "x": 532,
-          "y": 376,
+          "width": 245,
+          "x": 544,
+          "y": 360,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 101,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Unnamed",
+          "persistentUuid": "4b42a847-18b9-4f41-a115-68fb3c7bea87",
+          "width": 619,
+          "x": 344,
+          "y": 201,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 60,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c48291ce-348f-42db-b637-a4df22fbc467",
+          "width": 57,
+          "x": 479,
+          "y": 352,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2249,7 +2444,7 @@
           "assetStoreId": "3a50c8a940670eb3cd63065f30cd104b595ab49fd621a9b6b0b1b91996963f8d",
           "height": 240,
           "name": "Sky_Background",
-          "texture": "tiled_Sky Background.png",
+          "texture": "tiled_Sky Background.png4",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 320,
           "variables": [],
@@ -2257,21 +2452,61 @@
           "behaviors": []
         },
         {
-          "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
+          "assetStoreId": "54a9a34bb495b15fe0e00f71075908e1ce52d499723617c966ad527229c77c79",
           "name": "Start",
           "type": "PanelSpriteButton::PanelSpriteButton",
-          "variant": "Blue Button",
+          "variant": "Transparent Button With White Yellow Border",
           "variables": [],
           "effects": [],
           "behaviors": [],
           "content": {
-            "LeftPadding": 16,
-            "RightPadding": 16,
-            "PressedLabelOffsetY": 10,
-            "BottomPadding": 32,
-            "TopPadding": 16,
-            "HoveredFadeOutDuration": 0.25,
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 4,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0,
             "LabelText": "Start"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Unnamed",
+          "texture": "NewTiledSprite4",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "Screenshot 2025-11-26 203848.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "e80b6352d9f27049db858db6a22ad1351febb242a738de07155a6ac8301ea5c5",
+          "name": "RedButtonWithMetalFrame",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variant": "Red Button With Metal Frame",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 2,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2,
+            "LabelText": "Button"
           }
         }
       ],
@@ -2283,6 +2518,15 @@
           },
           {
             "objectName": "Start"
+          },
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "Unnamed"
+          },
+          {
+            "objectName": "RedButtonWithMetalFrame"
           }
         ]
       },
@@ -2294,6 +2538,16 @@
             {
               "type": {
                 "value": "TiledSpriteObject::XOffset"
+              },
+              "parameters": [
+                "Sky_Background",
+                "-",
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "TiledSpriteObject::YOffset"
               },
               "parameters": [
                 "Sky_Background",
@@ -2435,7 +2689,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6455105703311612,
+        "zoomFactor": 1.0615714305220196,
         "windowMask": true,
         "selectedLayer": "Scope"
       },
@@ -2724,8 +2978,8 @@
           "name": "Platformer_Character",
           "persistentUuid": "98e40da7-9741-4f3f-b156-cb3296f94a6e",
           "width": 79,
-          "x": 151,
-          "y": 106,
+          "x": 1516,
+          "y": 231,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -2739,7 +2993,7 @@
           "layer": "",
           "name": "Platform_Ground",
           "persistentUuid": "f6694bbe-4e5e-4d43-9082-d9098430e399",
-          "width": 288,
+          "width": 422,
           "x": 1971,
           "y": 409,
           "zOrder": 5,
@@ -2772,10 +3026,95 @@
           "layer": "",
           "name": "DeathZone",
           "persistentUuid": "5c75b384-de8b-4078-b0fb-cbbf9363b941",
-          "width": 2985,
+          "width": 3445,
           "x": -76,
           "y": 1449,
           "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 45,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Platform_Ground",
+          "persistentUuid": "66fdd66d-04eb-482b-9bba-6855d90b28be",
+          "width": 578,
+          "x": 2528,
+          "y": 411,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 312,
+          "customSize": true,
+          "depth": 3,
+          "height": 47,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Ice",
+          "persistentUuid": "5c4673ea-955e-418d-8763-2ad2c81cb550",
+          "width": 47,
+          "x": 2116,
+          "y": 18,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Ice_trigger_zone",
+          "persistentUuid": "42467ad4-6c7c-4d3d-bade-256e32dc5a01",
+          "width": 79,
+          "x": 2084,
+          "y": 350,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 312,
+          "customSize": true,
+          "depth": 3,
+          "height": 47,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Ice",
+          "persistentUuid": "916f5f71-c667-4d7b-9228-4d934257559d",
+          "width": 47,
+          "x": 2151,
+          "y": 6,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 312,
+          "customSize": true,
+          "depth": 3,
+          "height": 47,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Ice",
+          "persistentUuid": "e7788da1-735c-40fd-8356-f18417b6c113",
+          "width": 47,
+          "x": 2183,
+          "y": -3,
+          "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4470,12 +4809,12 @@
           ]
         },
         {
-          "assetStoreId": "734722d52956862823635227a2e24a48e10462962add6cb060d1b7004ca5a58e",
-          "height": 1024,
+          "assetStoreId": "53c847939889c2cc9be4a92a87161d8f843c326841ee58069ce7d8d415c6f08c",
+          "height": 256,
           "name": "Background",
-          "texture": "tiled_Desert Background 2.png",
+          "texture": "tiled_background fade trees.png2",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 1024,
+          "width": 256,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -4723,10 +5062,10 @@
           }
         },
         {
-          "assetStoreId": "e517e880684ebbd934245452a9a8f1d7aab6c19351bfd94a04bfd4206623643e",
+          "assetStoreId": "ae9c09db452c25baa181c7c533927b2f1713bb9bf28acf68f9bb01e4f64ebae3",
           "height": 47,
           "name": "Platform_Ground",
-          "texture": "tiled_Desert Tile Platform Center.png",
+          "texture": "tiled_Winter Tile Platform Center.png3",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
@@ -9374,6 +9713,109 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "e48935f75059147816c04395cb12de60a198e6e6613f192a4d69c6f15db2d1af",
+          "name": "Ice",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Ice Sword",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ice Sword.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 14,
+                            "y": 2
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Ice_trigger_zone",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "DeathZone",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "DeathZone",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -9430,6 +9872,12 @@
           },
           {
             "objectName": "DeathZone"
+          },
+          {
+            "objectName": "Ice_trigger_zone"
+          },
+          {
+            "objectName": "Ice"
           }
         ]
       },
@@ -10424,6 +10872,104 @@
                 "",
                 "\"Death\"",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Ice_trigger_zone",
+                "Platformer_Character",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "Ice",
+                "0",
+                "25",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Ice",
+                "Platformer_Character",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Death\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Ice",
+                "Platform_Ground",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Ice"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "24ff0a52cfcce9955d5ddeb47a10d5b5d50c398ccd52f242b50f8e3f1720700e_Glass Breaking 1.aac",
+                "",
+                "40",
+                "40"
               ]
             }
           ]
@@ -31691,6 +32237,321 @@
                   "width": 180,
                   "x": 6,
                   "y": 30,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ],
+              "editionSettings": {}
+            },
+            {
+              "areaMaxX": 998,
+              "areaMaxY": 54,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "assetStoreAssetId": "e80b6352d9f27049db858db6a22ad1351febb242a738de07155a6ac8301ea5c5",
+              "assetStoreOriginalName": "Red Button With Metal Frame",
+              "name": "Red Button With Metal Frame",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ],
+                  "string": "Button",
+                  "font": "Charm-Regular.ttf",
+                  "textAlignment": "center",
+                  "characterSize": 40,
+                  "color": {
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "Button",
+                    "font": "Charm-Regular.ttf",
+                    "textAlignment": "center",
+                    "verticalTextAlignment": "center",
+                    "characterSize": 40,
+                    "lineHeight": 0,
+                    "color": "255;255;255"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 54,
+                  "leftMargin": 0,
+                  "name": "Idle",
+                  "rightMargin": 0,
+                  "texture": "Red Button With Metal Frame_Idle.png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 998,
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "State",
+                      "type": "string",
+                      "value": "Idle"
+                    }
+                  ],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteButton::ButtonFSM",
+                      "serializedBehavior": {
+                        "name": "ButtonFSM",
+                        "type": "PanelSpriteButton::ButtonFSM",
+                        "ShouldCheckHovering": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 54,
+                  "leftMargin": 0,
+                  "name": "Hovered",
+                  "rightMargin": 0,
+                  "texture": "Red Button With Metal Frame_Hovered.png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 998,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Tween",
+                      "type": "Tween::TweenBehavior",
+                      "serializedBehavior": {
+                        "name": "Tween",
+                        "type": "Tween::TweenBehavior"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 54,
+                  "leftMargin": 0,
+                  "name": "Pressed",
+                  "rightMargin": 0,
+                  "texture": "Red Button With Metal Frame_Pressed.png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 998,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "name": "BitmapLabel",
+                  "type": "BitmapText::BitmapTextObject",
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "topEdgeAnchor": 4,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ],
+                  "content": {
+                    "text": "Text",
+                    "opacity": 255,
+                    "scale": 1,
+                    "fontSize": 20,
+                    "tint": "255;255;255",
+                    "bitmapFontResourceName": "",
+                    "textureAtlasResourceName": "",
+                    "align": "center",
+                    "verticalTextAlignment": "center"
+                  }
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "Idle"
+                  },
+                  {
+                    "objectName": "Hovered"
+                  },
+                  {
+                    "objectName": "Pressed"
+                  },
+                  {
+                    "objectName": "BitmapLabel"
+                  }
+                ]
+              },
+              "objectsGroups": [
+                {
+                  "name": "Background",
+                  "objects": [
+                    {
+                      "name": "Idle"
+                    },
+                    {
+                      "name": "Hovered"
+                    },
+                    {
+                      "name": "Pressed"
+                    }
+                  ]
+                },
+                {
+                  "name": "Labels",
+                  "objects": [
+                    {
+                      "name": "Label"
+                    },
+                    {
+                      "name": "BitmapLabel"
+                    }
+                  ]
+                }
+              ],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": false,
+                  "depth": 1,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Idle",
+                  "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
+                  "width": 64,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 34,
+                  "keepRatio": true,
+                  "layer": "",
+                  "name": "Label",
+                  "persistentUuid": "6897d48b-d662-4cd9-a78d-2fc2f04bce1b",
+                  "width": 890,
+                  "x": 54,
+                  "y": 27,
                   "zOrder": 2,
                   "numberProperties": [],
                   "stringProperties": [],
