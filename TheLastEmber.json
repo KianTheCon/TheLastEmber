@@ -2335,6 +2335,218 @@
         "name": "tiled_Winter Tile Platform Center.png3",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite5.png\"}",
+        "name": "NewTiledSprite5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Tiled Right Wall.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/tiled_Tiled Right Wall.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_Tiled Right Wall.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/18727be7c11a63e985e81dc03a3b25152ad5b30c8f6842d5a4d7cd5923ebaf9d_tiled_Tiled Right Wall.png",
+          "name": "tiled_Tiled Right Wall.png"
+        }
+      },
+      {
+        "file": "assets/Dpad Button_Down.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Dpad Button_Down.png\",\"extension\":\".png\"}",
+        "name": "Dpad Button_Down.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Controller And Input Icons/Button/Light/x128/4d190bdb4efdf708a6905b27ee01470f88a6dfc7aaa698a9edafefc48166765e_Dpad Button_Down.png",
+          "name": "Dpad Button_Down.png"
+        }
+      },
+      {
+        "file": "assets/Dpad Button_Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dpad Button_Left.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Controller And Input Icons/Button/Light/x128/9735f2346acfad13b088c0b9ef5be27db38b5e19ff4947b43045a5d54425c784_Dpad Button_Left.png",
+          "name": "Dpad Button_Left.png"
+        }
+      },
+      {
+        "file": "assets/Dpad Button_Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dpad Button_Right.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Controller And Input Icons/Button/Light/x128/1ad31276bac8ac1bff2110b17e5bdf30ef37194cf3de3e802cdc60c0655a517f_Dpad Button_Right.png",
+          "name": "Dpad Button_Right.png"
+        }
+      },
+      {
+        "file": "assets/Dpad Button_Up.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dpad Button_Up.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Controller And Input Icons/Button/Light/x128/85a060b9c7e276ced4e91c48fa42ae6f6b47b6d07640359b816a5e9f4b53e515_Dpad Button_Up.png",
+          "name": "Dpad Button_Up.png"
+        }
+      },
+      {
+        "file": "assets/Up.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Up",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Left.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Left",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Right.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Right",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Dpad Button_Down2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Dpad Button_Down2.png\",\"extension\":\".png\"}",
+        "name": "Dpad Button_Down.png2",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Controller And Input Icons/Button/Light/x48/2f156a3f38b1a3c78fee222f5b890f8e59cfa1474c780c094461bf5ada9977b5_Dpad Button_Down.png",
+          "name": "Dpad Button_Down.png"
+        }
+      },
+      {
+        "file": "assets/Dpad Button_Left2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dpad Button_Left.png2",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Controller And Input Icons/Button/Light/x48/c7bfcbb92482b11cc1e2f95303f7fe8a398a8ce315c35d5f2ae1308332013012_Dpad Button_Left.png",
+          "name": "Dpad Button_Left.png"
+        }
+      },
+      {
+        "file": "assets/Dpad Button_Right2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dpad Button_Right.png2",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Controller And Input Icons/Button/Light/x48/892e697e1d45b00a5371e5ce995f63ecca35d7a9569f4e4d71e7cb65787abc6d_Dpad Button_Right.png",
+          "name": "Dpad Button_Right.png"
+        }
+      },
+      {
+        "file": "assets/Dpad Button_Up2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dpad Button_Up.png2",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Controller And Input Icons/Button/Light/x48/aac4d5dc0cbe75ed15a032ea24d52860faf0b6ae6be5a00ee59fe88b207271db_Dpad Button_Up.png",
+          "name": "Dpad Button_Up.png"
+        }
+      },
+      {
+        "file": "assets/Mouse_Left Key.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Mouse_Left Key.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Xelu Free Controller and Key Prompts/Mouse/Light/b94d42fe0522c600389bb9711b1464a82e9c283e9d85a252934feca4c74e39de_Mouse_Left Key.png",
+          "name": "Mouse_Left Key.png"
+        }
+      },
+      {
+        "file": "assets/Mouse_Middle Key.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Mouse_Middle Key.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Xelu Free Controller and Key Prompts/Mouse/Light/75ca97cd3a3571f3d44d55a82e6be8b22ee778daea9f29b00c965ece58edb036_Mouse_Middle Key.png",
+          "name": "Mouse_Middle Key.png"
+        }
+      },
+      {
+        "file": "assets/Mouse_Mouse.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Mouse_Mouse.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Xelu Free Controller and Key Prompts/Mouse/Light/bf49dd392fe34687f3bd30d239cb62a7960fd57c61cbef07cc8b2eb1b46936e4_Mouse_Mouse.png",
+          "name": "Mouse_Mouse.png"
+        }
+      },
+      {
+        "file": "assets/Mouse_Right Key.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Mouse_Right Key.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Xelu Free Controller and Key Prompts/Mouse/Light/1036beb463b1c07af8d9109f1c5dea1753b3e19b5ecd6bf0e5d293805a218352_Mouse_Right Key.png",
+          "name": "Mouse_Right Key.png"
+        }
+      },
+      {
+        "file": "assets/Right Key.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Right Key",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Right Key2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Right Key2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/guideTrigger.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "guideTrigger",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -2696,7 +2908,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.49508400737490627,
+        "zoomFactor": 0.39251611754883997,
         "windowMask": true,
         "selectedLayer": "Scope"
       },
@@ -2946,8 +3158,8 @@
           "name": "MapBackground",
           "persistentUuid": "fa6f82ce-3b80-4f90-b047-259f5e20e7c3",
           "width": 640,
-          "x": 286,
-          "y": 197,
+          "x": 289,
+          "y": 182,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -2963,8 +3175,8 @@
           "name": "MapSprite",
           "persistentUuid": "2a2e1a6a-762b-46da-8bb0-4b3325087185",
           "width": 576,
-          "x": 348,
-          "y": 227,
+          "x": 375,
+          "y": 260,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -2995,8 +3207,8 @@
           "name": "Platformer_Character",
           "persistentUuid": "98e40da7-9741-4f3f-b156-cb3296f94a6e",
           "width": 79,
-          "x": 99,
-          "y": 196,
+          "x": 98,
+          "y": 248,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -3362,8 +3574,8 @@
           "name": "Last_Platform2",
           "persistentUuid": "4e4c4231-b181-4179-96ea-7329e39d4147",
           "width": 51,
-          "x": 4714,
-          "y": -152,
+          "x": 5758,
+          "y": -58,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -3379,9 +3591,292 @@
           "name": "Last_Platform_OBJECT",
           "persistentUuid": "f3a0c516-9f1f-48cc-abe7-49c21c8646e5",
           "width": 13,
-          "x": 4778,
-          "y": -102,
+          "x": 4782,
+          "y": -101,
           "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 90,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Barrier",
+          "persistentUuid": "e7659715-1b64-45a8-af51-d8e8408e13d6",
+          "width": 18,
+          "x": 4753,
+          "y": -140,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Barrier",
+          "persistentUuid": "8458e06f-007f-4ad7-a192-ab9229e8db58",
+          "width": 52,
+          "x": 4771,
+          "y": -140,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Barrier",
+          "persistentUuid": "cfb70e22-98bb-4c48-b8fc-3b0c2f6e0446",
+          "width": 16,
+          "x": 4807,
+          "y": -124,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide",
+          "persistentUuid": "5945e7f1-5501-4333-a5d1-7f62b66e7278",
+          "width": 32,
+          "x": 263,
+          "y": 117,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide2",
+          "persistentUuid": "95bd52fe-be92-4eea-89ae-61f659fa481f",
+          "width": 32,
+          "x": 263,
+          "y": 156,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide3",
+          "persistentUuid": "36be50c3-1e2f-435b-97d3-86b225eae4ab",
+          "width": 32,
+          "x": 225,
+          "y": 156,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide4",
+          "persistentUuid": "2bf708fe-4278-4a92-b5f1-cb0c7f29aad2",
+          "width": 32,
+          "x": 301,
+          "y": 156,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 31,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide5",
+          "persistentUuid": "5a040c23-7bd9-451c-9fbf-b1de5b73a0da",
+          "width": 161,
+          "x": 199,
+          "y": 199,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide6",
+          "persistentUuid": "be28958d-02cf-4195-9eef-784aa7b03db5",
+          "width": 0,
+          "x": 1054,
+          "y": 158,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 75,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guideTxt",
+          "persistentUuid": "67e82eab-83a4-4d01-b9ca-e492905a161e",
+          "width": 562,
+          "x": 975,
+          "y": 262,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide2txt",
+          "persistentUuid": "ed274049-720f-49bc-a2cd-74f58ce94b8d",
+          "width": 0,
+          "x": 216,
+          "y": 232,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guideTrigger",
+          "persistentUuid": "82be8d02-4f3b-4bad-959d-4f3d3d1ac553",
+          "width": 565,
+          "x": 361,
+          "y": 337,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide7",
+          "persistentUuid": "598d8bf2-0395-4aac-bea0-e7b540c8fed8",
+          "width": 0,
+          "x": 595,
+          "y": 329,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide3txt",
+          "persistentUuid": "53939a08-f94a-487a-8456-61474813015e",
+          "width": 0,
+          "x": 596,
+          "y": 427,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 343,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide4txt",
+          "persistentUuid": "e6c61982-b934-44ec-888c-d155f10e266e",
+          "width": 0,
+          "x": 773,
+          "y": 274,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 215,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Barrier2",
+          "persistentUuid": "6fd4cfbe-83a3-4345-886f-bec9e28f17fe",
+          "width": 29,
+          "x": 928,
+          "y": 199,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 352,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guide5txt",
+          "persistentUuid": "6d7d1d26-bac5-4ed5-b72d-10ab65bcf6e3",
+          "width": 0,
+          "x": 1809,
+          "y": 68,
+          "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10254,6 +10749,1854 @@
               "yGrabOffset": 0
             }
           ]
+        },
+        {
+          "assetStoreId": "f5b6a73dd247e757d6b9d35af67ca428070156d90e813f98975976d6ef419f76",
+          "height": 16,
+          "name": "Barrier",
+          "texture": "tiled_Tiled Right Wall.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "f3618214a180641c8cb08442b129a60aa32c866aa42899cdf48971e96e3ce716",
+          "name": "guide",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Up",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Dpad Button_Down.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Left",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "f3618214a180641c8cb08442b129a60aa32c866aa42899cdf48971e96e3ce716",
+          "name": "guide2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Dpad Button_Down.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Up",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Left",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "f3618214a180641c8cb08442b129a60aa32c866aa42899cdf48971e96e3ce716",
+          "name": "guide3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Left",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Up",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Dpad Button_Down.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "f3618214a180641c8cb08442b129a60aa32c866aa42899cdf48971e96e3ce716",
+          "name": "guide4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Up",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Dpad Button_Down.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Left",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "d1d59edcd1d9fc33aa36a3abe904d1a94b851dc027aab80b35298ca2e07801f0",
+          "name": "guide5",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Dpad Button_Down.png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 48,
+                            "y": 0
+                          },
+                          {
+                            "x": 48,
+                            "y": 48
+                          },
+                          {
+                            "x": 0,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Dpad Button_Left.png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 48,
+                            "y": 0
+                          },
+                          {
+                            "x": 48,
+                            "y": 48
+                          },
+                          {
+                            "x": 0,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Dpad Button_Right.png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 48,
+                            "y": 0
+                          },
+                          {
+                            "x": 48,
+                            "y": 48
+                          },
+                          {
+                            "x": 0,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Dpad Button_Up.png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 48,
+                            "y": 0
+                          },
+                          {
+                            "x": 48,
+                            "y": 48
+                          },
+                          {
+                            "x": 0,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "635ac7bc70c62a0d4dce3c966b84fc945f2ab47810c28c08b29ab59ba897793d",
+          "name": "guide6",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Right Key",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Right Key.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Mouse.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left Key",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Left Key.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Middle Key",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Middle Key.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mouse",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Mouse.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "guideTxt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "To see potential dangers",
+          "font": "ArchitectsDaughter.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "To see potential dangers",
+            "font": "ArchitectsDaughter.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "guide2txt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Movement",
+          "font": "ArchitectsDaughter.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Movement",
+            "font": "ArchitectsDaughter.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "guideTrigger",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "guideTrigger",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "guideTrigger",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "635ac7bc70c62a0d4dce3c966b84fc945f2ab47810c28c08b29ab59ba897793d",
+          "name": "guide7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Left Key",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Left Key.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Mouse.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right Key",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Right Key.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Mouse.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Middle Key",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Middle Key.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mouse",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mouse_Mouse.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 4
+                          },
+                          {
+                            "x": 84,
+                            "y": 96
+                          },
+                          {
+                            "x": 16,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "guide3txt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Shooting",
+          "font": "ArchitectsDaughter.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Shooting",
+            "font": "ArchitectsDaughter.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "guide4txt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Shoot me ->",
+          "font": "ArchitectsDaughter.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Shoot me ->",
+            "font": "ArchitectsDaughter.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "f5b6a73dd247e757d6b9d35af67ca428070156d90e813f98975976d6ef419f76",
+          "height": 16,
+          "name": "Barrier2",
+          "texture": "tiled_Tiled Right Wall.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "guide5txt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Watch out they hurt! ->",
+          "font": "ArchitectsDaughter.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Watch out they hurt! ->",
+            "font": "ArchitectsDaughter.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -10339,10 +12682,55 @@
             "objectName": "DeathZone"
           },
           {
+            "objectName": "guideTrigger"
+          },
+          {
             "objectName": "Ice_trigger_zone"
           },
           {
             "objectName": "Ice"
+          },
+          {
+            "objectName": "Barrier"
+          },
+          {
+            "objectName": "Barrier2"
+          },
+          {
+            "objectName": "guide"
+          },
+          {
+            "objectName": "guide2"
+          },
+          {
+            "objectName": "guide3"
+          },
+          {
+            "objectName": "guide4"
+          },
+          {
+            "objectName": "guide5"
+          },
+          {
+            "objectName": "guide6"
+          },
+          {
+            "objectName": "guide7"
+          },
+          {
+            "objectName": "guideTxt"
+          },
+          {
+            "objectName": "guide2txt"
+          },
+          {
+            "objectName": "guide3txt"
+          },
+          {
+            "objectName": "guide4txt"
+          },
+          {
+            "objectName": "guide5txt"
           }
         ]
       },
@@ -10367,6 +12755,46 @@
               "parameters": [
                 "",
                 "\"MiniGame\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "guide7"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "guide6"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "guideTxt"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "guide3txt"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "guide4txt"
               ]
             }
           ]
@@ -10416,6 +12844,107 @@
               "parameters": [
                 "MiniAction",
                 "True",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "guideTrigger",
+                "Platformer_Character",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "guide7",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "guide3txt",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "guide4txt",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Fire_Ball",
+                "Barrier2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Barrier2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Fire_Ball",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "guide6",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "guideTxt",
                 ""
               ]
             }
@@ -11312,6 +13841,43 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Fire_Ball",
+                "Barrier",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Fire_Ball",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Barrier",
+                ""
+              ]
+            }
+          ]
+        },
+        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -12089,6 +14655,10 @@
         {
           "name": "SmoothCamera",
           "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "Tween",
