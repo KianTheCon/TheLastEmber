@@ -12947,6 +12947,18 @@
                 "guideTxt",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "24ff0a52cfcce9955d5ddeb47a10d5b5d50c398ccd52f242b50f8e3f1720700e_Glass Breaking 1.aac",
+                "",
+                "40",
+                "4"
+              ]
             }
           ]
         },
