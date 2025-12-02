@@ -4331,9 +4331,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6040838749989457,
+        "zoomFactor": 0.23089183385227127,
         "windowMask": true,
-        "selectedLayer": "UI"
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -7037,7 +7037,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "UI",
-          "name": "NewText",
+          "name": "LifeForceTxt",
           "persistentUuid": "6387c98c-5def-49d4-9991-50ea9c2ac29b",
           "width": 0,
           "x": 3,
@@ -17811,7 +17811,7 @@
           "assetStoreId": "",
           "bold": false,
           "italic": false,
-          "name": "NewText",
+          "name": "LifeForceTxt",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
@@ -18081,7 +18081,7 @@
             "objectName": "Cave_Upper_Tile_Sprite_Reversed"
           },
           {
-            "objectName": "NewText"
+            "objectName": "LifeForceTxt"
           }
         ]
       },
