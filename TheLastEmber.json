@@ -3275,6 +3275,14 @@
         "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/Story3.json\"}",
         "name": "Story2",
         "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite26",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -3719,15 +3727,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 120,
+          "height": 113,
           "keepRatio": true,
           "layer": "Character",
-          "name": "Character",
-          "persistentUuid": "6b6c6d1a-f134-4023-bbb8-c606aacd8fbd",
-          "width": 126,
-          "x": 331,
-          "y": 387,
-          "zOrder": 6,
+          "name": "Spawning",
+          "persistentUuid": "570dca9b-523b-43e5-88d6-9e489eeb442c",
+          "width": 109,
+          "x": 333,
+          "y": 399,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3920,6 +3928,17 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Spawning",
+          "texture": "NewTiledSprite26",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -3942,6 +3961,9 @@
           },
           {
             "objectName": "Character"
+          },
+          {
+            "objectName": "Spawning"
           }
         ]
       },
@@ -21429,7 +21451,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5843784410740929,
+        "zoomFactor": 0.5653158055126308,
         "windowMask": false,
         "selectedLayer": ""
       },
