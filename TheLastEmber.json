@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 246,
+    "build": 245,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -81,7 +81,6 @@
     "authorUsernames": [],
     "categories": [],
     "playableDevices": [
-      "mobile",
       "mobile"
     ],
     "extensionProperties": [],
@@ -2548,7 +2547,8 @@
         "smoothed": true,
         "userAdded": false
       }
-    ]
+    ],
+    "resourceFolders": []
   },
   "objects": [],
   "objectsFolderStructure": {
@@ -2805,7 +2805,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -2901,10 +2900,8 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
-        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
-        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
@@ -2931,7 +2928,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -3010,16 +3006,14 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
-        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
-        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.463311182451419,
+        "zoomFactor": 0.584378441074127,
         "windowMask": true,
-        "selectedLayer": "Scope"
+        "selectedLayer": "MiniGame"
       },
       "objectsGroups": [],
       "variables": [
@@ -3969,6 +3963,39 @@
           "x": 1809,
           "y": 68,
           "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "OverLayer",
+          "name": "guide6txt",
+          "persistentUuid": "44513de2-736b-42b8-9fe9-f834d8891083",
+          "width": 0,
+          "x": 871,
+          "y": 673,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 69,
+          "keepRatio": true,
+          "layer": "MiniGame",
+          "name": "guide7txt",
+          "persistentUuid": "fea9caf1-0441-42bf-a371-bd943a2c039c",
+          "width": 226,
+          "x": 994,
+          "y": 513,
+          "zOrder": 52,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12689,6 +12716,92 @@
             "lineHeight": 0,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "guide6txt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "↑Press Up to access your flame! ↑",
+          "font": "ArchitectsDaughter.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "↑Press Up to access your flame! ↑",
+            "font": "ArchitectsDaughter.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "guide7txt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Press ENTER before the wood\nreaches the flame to consume it fully!",
+          "font": "ArchitectsDaughter.ttf",
+          "textAlignment": "left",
+          "characterSize": 10,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Press ENTER before the wood\nreaches the flame to consume it fully!",
+            "font": "ArchitectsDaughter.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 10,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -12823,6 +12936,12 @@
           },
           {
             "objectName": "guide5txt"
+          },
+          {
+            "objectName": "guide6txt"
+          },
+          {
+            "objectName": "guide7txt"
           }
         ]
       },
@@ -13487,6 +13606,15 @@
                     "",
                     "\"MiniGame\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"OverLayer\""
+                  ]
                 }
               ]
             },
@@ -13709,6 +13837,14 @@
                   "parameters": [
                     "Fuel",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "guide7txt"
                   ]
                 }
               ]
@@ -14533,7 +14669,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -14551,7 +14686,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -14580,7 +14714,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -14634,7 +14767,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -14652,7 +14784,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -14661,6 +14792,59 @@
           "isLightingLayer": false,
           "isLocked": false,
           "name": "Map",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "OverLayer",
           "renderingType": "",
           "visibility": true,
           "cameras": [],
@@ -15355,7 +15539,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -15554,7 +15737,6 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
@@ -26122,7 +26304,6 @@
               "ambientLightColorB": 200,
               "ambientLightColorG": 200,
               "ambientLightColorR": 200,
-              "camera2DPlaneMaxDrawingDistance": 5000,
               "camera3DFarPlaneDistance": 10000,
               "camera3DFieldOfView": 45,
               "camera3DNearPlaneDistance": 3,
@@ -33821,7 +34002,6 @@
               "ambientLightColorB": 200,
               "ambientLightColorG": 200,
               "ambientLightColorR": 200,
-              "camera2DPlaneMaxDrawingDistance": 5000,
               "camera3DFarPlaneDistance": 10000,
               "camera3DFieldOfView": 45,
               "camera3DNearPlaneDistance": 3,
@@ -35307,7 +35487,6 @@
                   "ambientLightColorB": 200,
                   "ambientLightColorG": 200,
                   "ambientLightColorR": 200,
-                  "camera2DPlaneMaxDrawingDistance": 5000,
                   "camera3DFarPlaneDistance": 10000,
                   "camera3DFieldOfView": 45,
                   "camera3DNearPlaneDistance": 3,
@@ -35623,7 +35802,6 @@
                   "ambientLightColorB": 200,
                   "ambientLightColorG": 200,
                   "ambientLightColorR": 200,
-                  "camera2DPlaneMaxDrawingDistance": 5000,
                   "camera3DFarPlaneDistance": 10000,
                   "camera3DFieldOfView": 45,
                   "camera3DNearPlaneDistance": 3,
@@ -35939,7 +36117,6 @@
                   "ambientLightColorB": 200,
                   "ambientLightColorG": 200,
                   "ambientLightColorR": 200,
-                  "camera2DPlaneMaxDrawingDistance": 5000,
                   "camera3DFarPlaneDistance": 10000,
                   "camera3DFieldOfView": 45,
                   "camera3DNearPlaneDistance": 3,
@@ -36255,7 +36432,6 @@
                   "ambientLightColorB": 200,
                   "ambientLightColorG": 200,
                   "ambientLightColorR": 200,
-                  "camera2DPlaneMaxDrawingDistance": 5000,
                   "camera3DFarPlaneDistance": 10000,
                   "camera3DFieldOfView": 45,
                   "camera3DNearPlaneDistance": 3,
