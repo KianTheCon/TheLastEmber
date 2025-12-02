@@ -3211,6 +3211,14 @@
         "name": "NewSprite4",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -3243,7 +3251,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4950840073748888,
+        "zoomFactor": 0.3925161175488224,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -4323,9 +4331,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3111974942445491,
+        "zoomFactor": 0.6040838749989457,
         "windowMask": true,
-        "selectedLayer": ""
+        "selectedLayer": "UI"
       },
       "objectsGroups": [],
       "variables": [
@@ -4440,8 +4448,8 @@
           "layer": "",
           "name": "Platform_Ground",
           "persistentUuid": "672ee5c6-d2bb-4ae4-bc77-78d15064dd68",
-          "width": 288,
-          "x": 928,
+          "width": 287,
+          "x": 929,
           "y": 416,
           "zOrder": 5,
           "numberProperties": [],
@@ -5248,13 +5256,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 404,
+          "height": 406,
           "keepRatio": true,
           "layer": "",
           "name": "Barrier2",
           "persistentUuid": "6fd4cfbe-83a3-4345-886f-bec9e28f17fe",
-          "width": 29,
-          "x": 926,
+          "width": 26,
+          "x": 929,
           "y": 10,
           "zOrder": 49,
           "numberProperties": [],
@@ -5433,8 +5441,8 @@
           "name": "WoodYellowBar",
           "persistentUuid": "7b6a2ab1-361b-4207-9943-77018f4d5020",
           "width": 422,
-          "x": 44,
-          "y": 547,
+          "x": 3,
+          "y": 653,
           "zOrder": 82,
           "numberProperties": [],
           "stringProperties": [],
@@ -6710,14 +6718,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 532,
+          "height": 510,
           "keepRatio": true,
           "layer": "",
           "name": "Filler",
           "persistentUuid": "4685af69-9bc4-4386-b283-9df4e7e570ff",
-          "width": 508,
+          "width": 370,
           "x": 929,
-          "y": 1017,
+          "y": 1039,
           "zOrder": 159,
           "numberProperties": [],
           "stringProperties": [],
@@ -7002,6 +7010,39 @@
           "x": 930,
           "y": 462,
           "zOrder": -4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1507,
+          "keepRatio": true,
+          "layer": "",
+          "name": "WallFiller",
+          "persistentUuid": "ded0e027-f938-4020-b0cc-df48d6ed0c07",
+          "width": 25,
+          "x": 929,
+          "y": 462,
+          "zOrder": -5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "NewText",
+          "persistentUuid": "6387c98c-5def-49d4-9991-50ea9c2ac29b",
+          "width": 0,
+          "x": 3,
+          "y": 626,
+          "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -17644,15 +17685,7 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "canBeGrabbed": true,
-              "name": "Platform",
-              "platformType": "NormalPlatform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "yGrabOffset": 0
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "NewSprite",
@@ -17704,6 +17737,118 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "WallFiller",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 800
+                          },
+                          {
+                            "x": 0,
+                            "y": 800
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "NewText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Life Force",
+          "font": "ArchitectsDaughter.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Life Force",
+            "font": "ArchitectsDaughter.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -17912,6 +18057,9 @@
             "objectName": "Filler"
           },
           {
+            "objectName": "WallFiller"
+          },
+          {
             "objectName": "Blue_Platform"
           },
           {
@@ -17931,6 +18079,9 @@
           },
           {
             "objectName": "Cave_Upper_Tile_Sprite_Reversed"
+          },
+          {
+            "objectName": "NewText"
           }
         ]
       },
@@ -19147,6 +19298,46 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Fire_Ball",
+                "WallFiller",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Fire_Ball",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "c5b6689ddbd9a1456eb53244e251e525ca1bfa4fbdbb3ee731e881e85738b020_Jump_Land_01.wav",
+                "",
+                "100",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -20320,7 +20511,7 @@
           "isLocked": true,
           "name": "OverLayer",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
@@ -20374,7 +20565,7 @@
           "isLocked": true,
           "name": "UI",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
