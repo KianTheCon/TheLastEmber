@@ -2987,6 +2987,130 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/New Icons/79fc8acf5f7c074667fca263ab293dc406cc3415fc3b94649ae35ee068d18e19_Snowflake_Shadow.png",
           "name": "Snowflake_Shadow.png"
         }
+      },
+      {
+        "file": "assets/Snow.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Snow",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Snow2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Snow2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Snow3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Snow3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Snow4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Snow4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Snow5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Snow5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/snow6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "snow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney New Platformer Pack 1.0/Props/Decoration/d77096c07a86ea979c087daba1f2e4c2c6335c4a2ae8f3f4c3e3b05ef25edc5b_snow.png",
+          "name": "snow.png"
+        }
+      },
+      {
+        "file": "assets/Snow tree2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Snow tree.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Plant/ec93d185acb18509337e747a3970ce09f79d9f466371f5b2b60e743016e17f03_Snow tree.png",
+          "name": "Snow tree.png"
+        }
+      },
+      {
+        "file": "assets/ice spell.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ice spell.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Verboten Arcane Stash/Spells/9e3e4746df8243f725ff2500cee7b2dc2fb6ac5688f03e4cdd266db41a3b691b_ice spell.png",
+          "name": "ice spell.png"
+        }
+      },
+      {
+        "file": "assets/rocks_a normal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rocks_a normal.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric City Pack/props/c76229719bf7c44d4ebef41629ff7926977ec019de56f89e9dc22caa30824327_rocks_a normal.png",
+          "name": "rocks_a normal.png"
+        }
+      },
+      {
+        "file": "assets/rocks_b normal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rocks_b normal.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric City Pack/props/570a0f6f33ad1e316d46b0b05fa9aa7251066d64aa10d7dd828e10c1249b7a97_rocks_b normal.png",
+          "name": "rocks_b normal.png"
+        }
+      },
+      {
+        "file": "assets/rocks_c normal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rocks_c normal.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric City Pack/props/91abce97b08cc1428e08487ee6ca05a552f20c180b429b2779d305ab9dc61487_rocks_c normal.png",
+          "name": "rocks_c normal.png"
+        }
+      },
+      {
+        "file": "assets/cloud 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/85b0e6d046a9a1e13436b94863721bd6ba25a1f3e898802ce3e0df53d4b16fe6_cloud 1.png",
+          "name": "cloud 1.png"
+        }
       }
     ]
   },
@@ -4099,7 +4223,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8416428125373709,
+        "zoomFactor": 0.49508400737492486,
         "windowMask": true,
         "selectedLayer": ""
       },
@@ -4398,8 +4522,8 @@
           "name": "Platformer_Character",
           "persistentUuid": "98e40da7-9741-4f3f-b156-cb3296f94a6e",
           "width": 79,
-          "x": 98,
-          "y": 248,
+          "x": 124,
+          "y": 250,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -5372,17 +5496,146 @@
           "initialVariables": []
         },
         {
-          "angle": 338,
+          "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Snowflake",
-          "persistentUuid": "9b2d2a2d-76a3-4f11-8fa5-4607152b3dff",
+          "name": "snow",
+          "persistentUuid": "5b5dd73c-31de-4062-9994-a5bb1b0bdb4f",
           "width": 0,
-          "x": 369,
-          "y": -47,
-          "zOrder": 92,
+          "x": 67,
+          "y": 290,
+          "zOrder": 94,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 72,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Snow_tree",
+          "persistentUuid": "fafa03b0-3d1c-4933-91b1-60c7051f9d59",
+          "width": 36,
+          "x": 258,
+          "y": 475,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "snow",
+          "persistentUuid": "b9d70700-4741-4070-8f02-7d8116ef0631",
+          "width": 0,
+          "x": 271,
+          "y": 483,
+          "zOrder": 95,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "snow",
+          "persistentUuid": "49c04292-cf5e-40cd-b28e-e55ec2c36c16",
+          "width": 0,
+          "x": 238,
+          "y": 494,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "snow",
+          "persistentUuid": "ab51a6de-2274-41c1-978d-ec23828fc1c6",
+          "width": 0,
+          "x": 1449,
+          "y": 361,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "snow",
+          "persistentUuid": "a71a087e-9282-4dfa-a086-1d7fca1492d5",
+          "width": 0,
+          "x": 2886,
+          "y": 356,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "rocks",
+          "persistentUuid": "32db2804-dfd8-4ab2-85a5-d7afaa44e890",
+          "width": 0,
+          "x": 1162,
+          "y": 409,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "rocks",
+          "persistentUuid": "f3ada3ee-3efc-43a0-b276-4bf7ac07f60c",
+          "width": 0,
+          "x": 1490,
+          "y": 409,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "rocks",
+          "persistentUuid": "c68f5ee9-03b9-4476-8af9-3a8650f73d94",
+          "width": 0,
+          "x": 2849,
+          "y": 406,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14555,10 +14808,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -14624,10 +14877,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -15039,12 +15292,408 @@
           "assetStoreId": "",
           "height": 32,
           "name": "Snow",
-          "texture": "",
+          "texture": "Snow5",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "47dad446d768dd42eba0d3cd2b32c39d51a10dc19adcd43d0a4c6bbf303de546",
+          "name": "snow",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "snow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 44
+                          },
+                          {
+                            "x": 64,
+                            "y": 44
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "c64b54fffae8519d0f061840b7da306ba1fda645ed319257c259e50c2fdc258b",
+          "name": "Snow_tree",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Snow tree.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 202,
+                            "y": 0
+                          },
+                          {
+                            "x": 202,
+                            "y": 462
+                          },
+                          {
+                            "x": 0,
+                            "y": 462
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "6ab2372e02c323f8ebf83c33e992766a2643f0ac8c6bdb0ce25025004128ee0b",
+          "name": "ice_spell",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ice spell.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "45beda4c769636f0051ab07352f595b0bac502264e7edaed9475494fd997462b",
+          "name": "rocks",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "a normal",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "rocks_a normal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 9
+                          },
+                          {
+                            "x": 0,
+                            "y": 9
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "b normal",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "rocks_b normal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 9
+                          },
+                          {
+                            "x": 0,
+                            "y": 9
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "c normal",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "rocks_c normal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 9
+                          },
+                          {
+                            "x": 0,
+                            "y": 9
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "9d759267df798a81024259ac3e9b2b2d9caf7ad71604f165ba354c5106f9b9a7",
+          "name": "cloud_1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "cloud 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 406,
+                            "y": 0
+                          },
+                          {
+                            "x": 406,
+                            "y": 242
+                          },
+                          {
+                            "x": 0,
+                            "y": 242
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -15221,6 +15870,21 @@
           },
           {
             "objectName": "Snow"
+          },
+          {
+            "objectName": "snow"
+          },
+          {
+            "objectName": "Snow_tree"
+          },
+          {
+            "objectName": "ice_spell"
+          },
+          {
+            "objectName": "rocks"
+          },
+          {
+            "objectName": "cloud_1"
           }
         ]
       },
@@ -15294,6 +15958,26 @@
               "parameters": [
                 "",
                 "\"UI\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TiledSpriteObject::XOffset"
+              },
+              "parameters": [
+                "Snow",
+                "+",
+                "0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TiledSpriteObject::YOffset"
+              },
+              "parameters": [
+                "Snow",
+                "-",
+                "0.1"
               ]
             }
           ]
