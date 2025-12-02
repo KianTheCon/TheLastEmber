@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 248,
+    "build": 246,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -2761,6 +2761,232 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Uplifting/fd72aebb38a59a9982985c713d24f714ccfc366f8ad464113b25de887b6a04e4_Motions.aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "assets/Black Knight.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "fed777286f0c1b9230c1cdddbe5c3beb90ba16974f6a8620bdb99d97c5afd2c3_Black Knight.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Epic Dramatic/fed777286f0c1b9230c1cdddbe5c3beb90ba16974f6a8620bdb99d97c5afd2c3_Black Knight.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/tiled_background fade trees.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_background fade trees.png3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_background fade trees.png5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_background fade trees.png4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_background fade trees.png6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_background fade trees.png5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_background fade trees.png7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_background fade trees.png6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Rock 1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Rock 1.png\",\"extension\":\".png\"}",
+        "name": "Rock 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/b314745b840a5c2a61fd9e5ad6140ab1fa693772b897a83ad91b460b828cb0c4_Rock 1.png",
+          "name": "Rock 1.png"
+        }
+      },
+      {
+        "file": "assets/Rock 6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Rock 6.png\",\"extension\":\".png\"}",
+        "name": "Rock 6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Rock/62efe465b19fe0ec6badf83bee30c364e124d1eeb23069fd89c62f6715377713_Rock 6.png",
+          "name": "Rock 6.png"
+        }
+      },
+      {
+        "file": "assets/Rock7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Rock 6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/SnowMan.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SnowMan.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Winter/Objects/95b12f44b801176234a18f2810bf56a9041395c72d5104ba3e9bd02a200c2c1c_SnowMan.png",
+          "name": "SnowMan.png"
+        }
+      },
+      {
+        "file": "assets/SnowMan2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/SnowMan2.png\"}",
+        "name": "SnowMan",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cave Under Tile.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cave Under Tile.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/95ba703db10c28440e0e9d52ab792c4af621ad2833911f5dde01c90774994a6b_Cave Under Tile.png",
+          "name": "Cave Under Tile.png"
+        }
+      },
+      {
+        "file": "assets/Cave Under Tile2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Cave Under Tile2.png\"}",
+        "name": "Cave Under Tile",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cave Under Tile3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cave Under Tile2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cave Under Tile4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cave Under Tile3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cave Under Tile5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cave Under Tile4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cave Under Tile6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cave Under Tile5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cave Under Tile7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Cave Under Tile7.png\"}",
+        "name": "Cave Under Tile6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/water flatfriz dark surface.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "water flatfriz dark surface.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/RC Art - Water Aqua System/BG Water/3a97deb4c70a76383b84720e37ff72a4226bb9836b61b0ef55b355c803e71ad5_water flatfriz dark surface.png",
+          "name": "water flatfriz dark surface.png"
+        }
+      },
+      {
+        "file": "assets/water flatfriz dark surface2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "water flatfriz dark surface",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cave Under Tile8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Cave Under Tile8.png\"}",
+        "name": "Cave Under Tile7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cave Under Tile9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Cave Under Tile9.png\"}",
+        "name": "Cave Under Tile8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cave Under Tile10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Cave Under Tile10.png\"}",
+        "name": "Cave Under Tile9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Snowflake_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Snowflake_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/New Icons/3502f03553fa538328c80f7f719146ada904f0a0236dccfc3d323c4531c00408_Snowflake_No Shadow.png",
+          "name": "Snowflake_No Shadow.png"
+        }
+      },
+      {
+        "file": "assets/Snowflake_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Snowflake_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/New Icons/79fc8acf5f7c074667fca263ab293dc406cc3415fc3b94649ae35ee068d18e19_Snowflake_Shadow.png",
+          "name": "Snowflake_Shadow.png"
+        }
       }
     ]
   },
@@ -3530,7 +3756,7 @@
                     "",
                     "\"scroller\"",
                     ">=",
-                    "0.02"
+                    "0.03"
                   ]
                 }
               ],
@@ -3873,9 +4099,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6897782140104967,
+        "zoomFactor": 0.8416428125373709,
         "windowMask": true,
-        "selectedLayer": "UI"
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -4255,8 +4481,8 @@
           "name": "Ice",
           "persistentUuid": "5c4673ea-955e-418d-8763-2ad2c81cb550",
           "width": 47,
-          "x": 2116,
-          "y": 18,
+          "x": 2143,
+          "y": 36,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -4272,8 +4498,8 @@
           "name": "Ice_trigger_zone",
           "persistentUuid": "42467ad4-6c7c-4d3d-bade-256e32dc5a01",
           "width": 215,
-          "x": 2084,
-          "y": 236,
+          "x": 2111,
+          "y": 240,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -4289,8 +4515,8 @@
           "name": "Ice",
           "persistentUuid": "916f5f71-c667-4d7b-9228-4d934257559d",
           "width": 47,
-          "x": 2151,
-          "y": 6,
+          "x": 2178,
+          "y": 16,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -4306,8 +4532,8 @@
           "name": "Ice",
           "persistentUuid": "e7788da1-735c-40fd-8356-f18417b6c113",
           "width": 47,
-          "x": 2183,
-          "y": -3,
+          "x": 2210,
+          "y": 7,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -4783,21 +5009,21 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 215,
+          "height": 404,
           "keepRatio": true,
           "layer": "",
           "name": "Barrier2",
           "persistentUuid": "6fd4cfbe-83a3-4345-886f-bec9e28f17fe",
           "width": 29,
-          "x": 928,
-          "y": 199,
+          "x": 926,
+          "y": 10,
           "zOrder": 49,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
-          "angle": 352,
+          "angle": 337,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
@@ -4805,8 +5031,8 @@
           "name": "guide5txt",
           "persistentUuid": "6d7d1d26-bac5-4ed5-b72d-10ab65bcf6e3",
           "width": 0,
-          "x": 1809,
-          "y": 68,
+          "x": 1874,
+          "y": 121,
           "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
@@ -4971,6 +5197,192 @@
           "x": 44,
           "y": 547,
           "zOrder": 82,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 144,
+          "keepRatio": true,
+          "layer": "",
+          "name": "SnowMan",
+          "persistentUuid": "4952dd02-d9f3-40d1-acff-5b3cdee70780",
+          "width": 113,
+          "x": 61,
+          "y": 401,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 272,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Under_Tile2",
+          "persistentUuid": "3a9b8ced-e9a5-41a0-be9e-835178eb02a3",
+          "width": 630,
+          "x": 925,
+          "y": -166,
+          "zOrder": 85,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 272,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Under_Tile2",
+          "persistentUuid": "13e5ddac-ca1d-438d-b408-04e9ff9c3e08",
+          "width": 473,
+          "x": 1554,
+          "y": -165,
+          "zOrder": 85,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 272,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Under_Tile2",
+          "persistentUuid": "8f0b1c1a-ee74-4a8e-97e4-540f84f89b50",
+          "width": 557,
+          "x": 2027,
+          "y": -165,
+          "zOrder": 86,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 357,
+          "customSize": true,
+          "depth": 3,
+          "height": 268,
+          "keepRatio": true,
+          "layer": "",
+          "name": "water_flatfriz_dark_surface",
+          "persistentUuid": "b5a31081-7153-4215-9522-d74bf4cd0dc4",
+          "width": 2383,
+          "x": 766,
+          "y": 749,
+          "zOrder": 87,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 335,
+          "customSize": true,
+          "depth": 1,
+          "height": 321,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Under_Tile2",
+          "persistentUuid": "57b4f569-7243-4390-80b2-8d1d35a9c0c0",
+          "width": 658,
+          "x": 3334,
+          "y": -380,
+          "zOrder": 90,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 347,
+          "customSize": true,
+          "depth": 1,
+          "height": 272,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Under_Tile2",
+          "persistentUuid": "9d957bda-b10a-4003-b45a-590b36fa3e29",
+          "width": 543,
+          "x": 3894,
+          "y": -492,
+          "zOrder": 91,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 352,
+          "customSize": true,
+          "depth": 1,
+          "height": 272,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Under_Tile3",
+          "persistentUuid": "6b091b41-1ab7-49d1-b159-ecc384ff9fd5",
+          "width": 501,
+          "x": 2556,
+          "y": -196,
+          "zOrder": 88,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 344,
+          "customSize": true,
+          "depth": 1,
+          "height": 314,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Under_Tile2",
+          "persistentUuid": "4d7c60c5-c7f0-4423-886a-fc6a395a0a86",
+          "width": 642,
+          "x": 2894,
+          "y": -230,
+          "zOrder": 89,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 1,
+          "customSize": true,
+          "depth": 1,
+          "height": 273,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Under_Tile2",
+          "persistentUuid": "b49c8973-a28e-4040-b1d9-89668f9e009f",
+          "width": 545,
+          "x": 4414,
+          "y": -474,
+          "zOrder": 91,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 338,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Snowflake",
+          "persistentUuid": "9b2d2a2d-76a3-4f11-8fa5-4607152b3dff",
+          "width": 0,
+          "x": 369,
+          "y": -47,
+          "zOrder": 92,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6668,7 +7080,7 @@
           "assetStoreId": "53c847939889c2cc9be4a92a87161d8f843c326841ee58069ce7d8d415c6f08c",
           "height": 256,
           "name": "Background",
-          "texture": "tiled_background fade trees.png2",
+          "texture": "tiled_background fade trees.png6",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 256,
           "variables": [],
@@ -14071,6 +14483,568 @@
             "BarLeftPadding": 10,
             "PreviousHighValueDuration": 0
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "211a1957f66fe7003545f2f79a35e20673ea3708c9297e263c8ae388f28961f3",
+          "name": "Rock_1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Rock 1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Rock 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 134,
+                            "y": 1
+                          },
+                          {
+                            "x": 134,
+                            "y": 108
+                          },
+                          {
+                            "x": 1,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "5fb2ef62351bf2c8288862dafe61c42d20a18f13093730032c76ead44788518b",
+          "name": "Rock_6",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "Rock 6",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Rock 6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 161,
+                            "y": 0
+                          },
+                          {
+                            "x": 161,
+                            "y": 120
+                          },
+                          {
+                            "x": 0,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "bbf7459ada96b9db272619c9d7a0c51152abc1bac7b13e9e2b1efb1aa0e10ec3",
+          "name": "SnowMan",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "SnowMan",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SnowMan",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 97,
+                            "y": 0
+                          },
+                          {
+                            "x": 97,
+                            "y": 105
+                          },
+                          {
+                            "x": 0,
+                            "y": 105
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "fe7f314724f604d8c5d29560986b045237af9389ff578624976d45a7cf77e88b",
+          "name": "Cave_Under_Tile",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Cave Under Tile",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cave Under Tile",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 88,
+                            "y": 0
+                          },
+                          {
+                            "x": 88,
+                            "y": 40
+                          },
+                          {
+                            "x": 0,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "fe7f314724f604d8c5d29560986b045237af9389ff578624976d45a7cf77e88b",
+          "name": "Cave_Under_Tile2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Cave Under Tile",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cave Under Tile8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 800
+                          },
+                          {
+                            "x": 0,
+                            "y": 800
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "c062ca717595ff4967f529dedf1295162cc4ab2a49090c07081ccbe4c7033d4a",
+          "name": "water_flatfriz_dark_surface",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "water flatfriz dark surface",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "water flatfriz dark surface",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 24
+                          },
+                          {
+                            "x": 279,
+                            "y": 24
+                          },
+                          {
+                            "x": 279,
+                            "y": 267
+                          },
+                          {
+                            "x": 27,
+                            "y": 267
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "fe7f314724f604d8c5d29560986b045237af9389ff578624976d45a7cf77e88b",
+          "name": "Cave_Under_Tile3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Cave Under Tile",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cave Under Tile9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 800
+                          },
+                          {
+                            "x": 0,
+                            "y": 800
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "1ef4a0e355bb0008855bbf8cdc81730afba37a0db1766d90ebcdc626530f5bf8",
+          "name": "Snowflake",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Snowflake_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 29
+                          },
+                          {
+                            "x": 5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Snowflake_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 29
+                          },
+                          {
+                            "x": 5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Snow",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -14220,6 +15194,33 @@
           },
           {
             "objectName": "WoodYellowBar"
+          },
+          {
+            "objectName": "Rock_1"
+          },
+          {
+            "objectName": "Rock_6"
+          },
+          {
+            "objectName": "SnowMan"
+          },
+          {
+            "objectName": "Cave_Under_Tile"
+          },
+          {
+            "objectName": "Cave_Under_Tile3"
+          },
+          {
+            "objectName": "Cave_Under_Tile2"
+          },
+          {
+            "objectName": "water_flatfriz_dark_surface"
+          },
+          {
+            "objectName": "Snowflake"
+          },
+          {
+            "objectName": "Snow"
           }
         ]
       },
@@ -14284,6 +15285,15 @@
               },
               "parameters": [
                 "guide4txt"
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"UI\""
               ]
             }
           ]
@@ -16269,10 +17279,10 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": false,
+          "isLocked": true,
           "name": "UI",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
