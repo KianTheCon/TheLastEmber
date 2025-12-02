@@ -15124,6 +15124,17 @@
                   "parameters": [
                     "guide7txt"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "WoodYellowBar",
+                    "+",
+                    "1",
+                    ""
+                  ]
                 }
               ]
             },
@@ -15567,11 +15578,12 @@
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
               },
               "parameters": [
-                "",
-                "\"Death\"",
+                "WoodYellowBar",
+                "-",
+                "5",
                 ""
               ]
             }
