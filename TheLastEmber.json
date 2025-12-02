@@ -2723,6 +2723,48 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Non Combat Actions/e17db548309fb85a7be86018b4a7df7c5d34193efeb8ecf531bd44e5f238a001_Campfire_Shadow.png",
           "name": "Campfire_Shadow.png"
         }
+      },
+      {
+        "file": "assets/Magic in the Garden.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "7706a006672d237a8bddcf796e56afc418f4a534c7528d9f6d6a19d0c49aad41_Magic in the Garden.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Underscoring/7706a006672d237a8bddcf796e56afc418f4a534c7528d9f6d6a19d0c49aad41_Magic in the Garden.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Patience Party.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "c09d5ba05aa1071ef4beb06e90f391690c159208f6b4cc84820aee2386ce6018_Patience Party.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Romantic Sentimental/c09d5ba05aa1071ef4beb06e90f391690c159208f6b4cc84820aee2386ce6018_Patience Party.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Motions.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "fd72aebb38a59a9982985c713d24f714ccfc366f8ad464113b25de887b6a04e4_Motions.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Uplifting/fd72aebb38a59a9982985c713d24f714ccfc366f8ad464113b25de887b6a04e4_Motions.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ]
   },
@@ -2755,7 +2797,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4950840073748888,
+        "zoomFactor": 0.41943397827590606,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -3441,6 +3483,18 @@
                 "",
                 "\"Character\""
               ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "fd72aebb38a59a9982985c713d24f714ccfc366f8ad464113b25de887b6a04e4_Motions.aac",
+                "",
+                "40",
+                ""
+              ]
             }
           ]
         },
@@ -3480,7 +3534,7 @@
                     "",
                     "\"scroller\"",
                     ">=",
-                    "0.005"
+                    "0.025"
                   ]
                 }
               ],
@@ -3823,7 +3877,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3437520241612541,
+        "zoomFactor": 0.5653158055126692,
         "windowMask": true,
         "selectedLayer": ""
       },
