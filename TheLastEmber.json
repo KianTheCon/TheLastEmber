@@ -3041,7 +3041,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6040838749989251,
+        "zoomFactor": 0.546875000000035,
         "windowMask": true,
         "selectedLayer": "UI"
       },
@@ -12875,8 +12875,8 @@
           "effects": [],
           "behaviors": [],
           "content": {
-            "InitialValue": 8,
-            "MaxValue": 16,
+            "InitialValue": 25,
+            "MaxValue": 25,
             "BarTopPadding": 8,
             "BarRightPadding": 10,
             "BarBottomPadding": 8,
@@ -13411,7 +13411,7 @@
           "conditions": [
             {
               "type": {
-                "value": "MouseButtonFromTextPressed"
+                "value": "MouseButtonFromTextReleased"
               },
               "parameters": [
                 "",
@@ -14742,6 +14742,73 @@
               "parameters": [
                 "",
                 "\"1st Stage End Screen\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Health"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "Health_Bar",
+                "-",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
+              },
+              "parameters": [
+                "Health_Bar",
+                "=",
+                "0",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Death\"",
                 ""
               ]
             }
