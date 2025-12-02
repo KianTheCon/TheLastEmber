@@ -3147,6 +3147,70 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Background/52670a0931709d806cf7bb5d2f15d278f7be2a11576faaaedf4102eb11739484_tiled_Blue Background.png",
           "name": "tiled_Blue Background.png"
         }
+      },
+      {
+        "file": "assets/NewTiledSprite19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite19.png\"}",
+        "name": "NewTiledSprite15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -4259,7 +4323,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4789341884535663,
+        "zoomFactor": 0.3111974942445491,
         "windowMask": true,
         "selectedLayer": ""
       },
@@ -4541,8 +4605,8 @@
           "name": "MapSprite",
           "persistentUuid": "2a2e1a6a-762b-46da-8bb0-4b3325087185",
           "width": 576,
-          "x": 375,
-          "y": 260,
+          "x": 325,
+          "y": 201,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -4621,9 +4685,9 @@
           "layer": "",
           "name": "DeathZone",
           "persistentUuid": "5c75b384-de8b-4078-b0fb-cbbf9363b941",
-          "width": 4865,
-          "x": -76,
-          "y": 1449,
+          "width": 5220,
+          "x": 941,
+          "y": 1252,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -5445,23 +5509,6 @@
           "initialVariables": []
         },
         {
-          "angle": 357,
-          "customSize": true,
-          "depth": 3,
-          "height": 268,
-          "keepRatio": true,
-          "layer": "",
-          "name": "water_flatfriz_dark_surface",
-          "persistentUuid": "b5a31081-7153-4215-9522-d74bf4cd0dc4",
-          "width": 2383,
-          "x": 741,
-          "y": 761,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
           "angle": 335,
           "customSize": true,
           "depth": 1,
@@ -6123,7 +6170,7 @@
           "layer": "",
           "name": "MiddleBlue",
           "persistentUuid": "43d1f444-5093-481e-8bac-d985cb20639c",
-          "width": 203,
+          "width": 231,
           "x": 700,
           "y": 1006,
           "zOrder": 123,
@@ -6459,47 +6506,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 412,
           "keepRatio": true,
           "layer": "",
-          "name": "Coins",
-          "persistentUuid": "3a3db674-acd8-4ba3-b179-65aec0ca0caa",
-          "width": 0,
-          "x": 1176,
-          "y": 949,
-          "zOrder": 145,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Coins",
-          "persistentUuid": "a3f82d17-5c6f-45b5-a7e9-3ca3f7f6d312",
-          "width": 0,
-          "x": 1228,
-          "y": 892,
-          "zOrder": 146,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Coins",
-          "persistentUuid": "b06873f0-171d-4540-bcf3-f2c68937e0b8",
-          "width": 0,
-          "x": 1304,
-          "y": 836,
+          "name": "Cave_Upper_Tile_Sprite",
+          "persistentUuid": "e1ef53ba-59c7-4db1-860c-1a833740f2d4",
+          "width": 357,
+          "x": 1287,
+          "y": 722,
           "zOrder": 147,
           "numberProperties": [],
           "stringProperties": [],
@@ -6507,47 +6523,33 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 588,
           "keepRatio": true,
           "layer": "",
-          "name": "Coins",
-          "persistentUuid": "5ce2eed3-396a-4ef7-b781-cf07d283628e",
-          "width": 0,
-          "x": 1668,
-          "y": 829,
-          "zOrder": 148,
+          "name": "Cave_Upper_Tile_Sprite_Reversed",
+          "persistentUuid": "82e981f0-ba61-4235-97e3-d08bc66a0e79",
+          "width": 668,
+          "x": 929,
+          "y": 461,
+          "zOrder": 146,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 339,
           "keepRatio": true,
           "layer": "",
-          "name": "Coins",
-          "persistentUuid": "9203d8bd-f4a7-4e20-a701-cb77ef053fa0",
-          "width": 0,
-          "x": 1722,
-          "y": 870,
-          "zOrder": 149,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Coins",
-          "persistentUuid": "e9e3fb7b-393a-47da-b638-c19140bede90",
-          "width": 0,
-          "x": 1766,
-          "y": 934,
+          "name": "Cave_Upper_Tile_Sprite_Reversed",
+          "persistentUuid": "78347971-e883-4fcb-941d-5c8cf1697ca5",
+          "width": 330,
+          "x": 1608,
+          "y": 898,
           "zOrder": 150,
           "numberProperties": [],
           "stringProperties": [],
@@ -6555,16 +6557,34 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 368,
           "keepRatio": true,
           "layer": "",
-          "name": "FireReplenish",
-          "persistentUuid": "d7ec0ed1-ff0f-4523-9309-b9f7e6d80a5a",
-          "width": 0,
-          "x": 1102,
-          "y": 785,
+          "name": "Cave_Upper_Tile_Sprite",
+          "persistentUuid": "8c999942-35e5-44bd-9775-411d743a020a",
+          "width": 821,
+          "x": 1873,
+          "y": 1001,
           "zOrder": 151,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 562,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Upper_Tile_Sprite",
+          "persistentUuid": "2d29e32a-c591-4f73-bf85-54efc282f2ac",
+          "width": 800,
+          "x": 2693,
+          "y": 805,
+          "zOrder": 152,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6575,12 +6595,413 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "FireReplenish2",
-          "persistentUuid": "cab4f637-5b54-4e38-88a8-9b26d3af9da2",
+          "name": "Cave_Upper_Tile_Sprite",
+          "persistentUuid": "46a23951-113e-42d4-93d8-3d4235be71f6",
           "width": 0,
-          "x": 1516,
-          "y": 762,
-          "zOrder": 152,
+          "x": 3401,
+          "y": 591,
+          "zOrder": 153,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Upper_Tile_Sprite",
+          "persistentUuid": "45408e89-e8dc-4249-baef-77ebc29aef5d",
+          "width": 0,
+          "x": 4045,
+          "y": 455,
+          "zOrder": 154,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 340,
+          "customSize": true,
+          "depth": 1,
+          "height": 545,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Upper_Tile_Sprite",
+          "persistentUuid": "266d8811-a46f-4fb3-be17-052bf80d55df",
+          "width": 545,
+          "x": 4771,
+          "y": 195,
+          "zOrder": 155,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 196,
+          "customSize": true,
+          "depth": 1,
+          "height": 405,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Upper_Tile_Sprite_Reversed",
+          "persistentUuid": "d0d78e05-2b5f-45a3-a659-0fd14ab80297",
+          "width": 405,
+          "x": 4890,
+          "y": -420,
+          "zOrder": 156,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 266,
+          "customSize": true,
+          "depth": 1,
+          "height": 327,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cave_Upper_Tile_Sprite_Reversed",
+          "persistentUuid": "cb117ef1-650f-4598-84e4-c184904339ee",
+          "width": 327,
+          "x": 5070,
+          "y": -2,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 342,
+          "keepRatio": true,
+          "layer": "",
+          "name": "DeathZone",
+          "persistentUuid": "de1857b6-b445-4d93-847b-ed55cdfdc653",
+          "width": 2773,
+          "x": -1846,
+          "y": 1431,
+          "zOrder": 158,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 680,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "c436225b-a564-479e-b978-97d177c05c2c",
+          "width": 3524,
+          "x": 929,
+          "y": 1301,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 532,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "4685af69-9bc4-4386-b283-9df4e7e570ff",
+          "width": 508,
+          "x": 929,
+          "y": 1017,
+          "zOrder": 159,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 740,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "42f3474d-ea94-43ee-8cf4-cda72019fa28",
+          "width": 800,
+          "x": 1077,
+          "y": 1233,
+          "zOrder": 160,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 800,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "6250d6ce-563d-45c7-a80b-72474bc2b28c",
+          "width": 687,
+          "x": 962,
+          "y": 1127,
+          "zOrder": 161,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "ab292c18-827f-4a6e-8ef7-9edec8d21667",
+          "width": 0,
+          "x": 4185,
+          "y": 1186,
+          "zOrder": 162,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "24039b33-4d63-464a-abed-fe5d48344866",
+          "width": 0,
+          "x": 4841,
+          "y": 715,
+          "zOrder": 163,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "91f29fc1-c572-459d-95c7-62bebae9bdec",
+          "width": 0,
+          "x": 4897,
+          "y": 1179,
+          "zOrder": 164,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "f8a41991-0438-46bc-9da3-d49222e6c7c8",
+          "width": 0,
+          "x": 5275,
+          "y": 170,
+          "zOrder": 165,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "ca9f0e5c-8c70-4380-9a81-be34b1829189",
+          "width": 0,
+          "x": 5275,
+          "y": 878,
+          "zOrder": 166,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 800,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "b3d4542b-53f5-482b-a567-14f4315ef5ce",
+          "width": 790,
+          "x": 5282,
+          "y": 1179,
+          "zOrder": 167,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "d04433cf-e30d-490e-9bb8-f0fb7727ddd5",
+          "width": 0,
+          "x": 5139,
+          "y": 650,
+          "zOrder": 168,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 539,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "a0ac893d-9db8-4aba-a72c-49ca6de86f6b",
+          "width": 536,
+          "x": 5542,
+          "y": -325,
+          "zOrder": 169,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 308,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "ffeb6b58-6994-4f68-8ebe-ab515bedf7e2",
+          "width": 262,
+          "x": 5322,
+          "y": -65,
+          "zOrder": 170,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 343,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "3f158155-44f0-4a56-be94-0e12339fd4b6",
+          "width": 401,
+          "x": 5277,
+          "y": -339,
+          "zOrder": 171,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 709,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "f681b77c-9cdc-4226-8e87-051f0579823a",
+          "width": 574,
+          "x": 5477,
+          "y": 41,
+          "zOrder": 172,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 11,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "fad73ac1-ec43-4172-91c1-556d18b2446a",
+          "width": 134,
+          "x": 5244,
+          "y": -52,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 11,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "dca9c919-84d6-42d1-b0e7-b41e7c0ac632",
+          "width": 134,
+          "x": 5262,
+          "y": -109,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 11,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "e2b84c96-d85c-441e-84aa-50e714bac0b7",
+          "width": 134,
+          "x": 5234,
+          "y": -128,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 583,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Filler",
+          "persistentUuid": "3a243ba6-9585-46c0-bdfd-516389ee7fc6",
+          "width": 22,
+          "x": 930,
+          "y": 462,
+          "zOrder": -4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -17081,6 +17502,208 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "cave_Upper_Tile",
+          "texture": "NewTiledSprite19",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Cave_Upper_Tile_Sprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 800
+                          },
+                          {
+                            "x": 0,
+                            "y": 800
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Cave_Upper_Tile_Sprite_Reversed",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 800
+                          },
+                          {
+                            "x": 0,
+                            "y": 800
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Filler",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 0
+                          },
+                          {
+                            "x": 800,
+                            "y": 800
+                          },
+                          {
+                            "x": 0,
+                            "y": 800
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -17253,6 +17876,9 @@
             "objectName": "Cave_Under_Tile3"
           },
           {
+            "objectName": "cave_Upper_Tile"
+          },
+          {
             "objectName": "Cave_Under_Tile2"
           },
           {
@@ -17283,6 +17909,9 @@
             "objectName": "Snow2"
           },
           {
+            "objectName": "Filler"
+          },
+          {
             "objectName": "Blue_Platform"
           },
           {
@@ -17296,6 +17925,12 @@
           },
           {
             "objectName": "Blue_Background"
+          },
+          {
+            "objectName": "Cave_Upper_Tile_Sprite"
+          },
+          {
+            "objectName": "Cave_Upper_Tile_Sprite_Reversed"
           }
         ]
       },
