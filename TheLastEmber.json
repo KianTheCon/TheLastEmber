@@ -2699,6 +2699,30 @@
         "name": "Character4",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/Campfire_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Campfire_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Non Combat Actions/e732df12dd7fbff850de517b7dfe4992008c68d9f6fa44812cb94a546381631f_Campfire_No Shadow.png",
+          "name": "Campfire_No Shadow.png"
+        }
+      },
+      {
+        "file": "assets/Campfire_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Campfire_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Non Combat Actions/e17db548309fb85a7be86018b4a7df7c5d34193efeb8ecf531bd44e5f238a001_Campfire_Shadow.png",
+          "name": "Campfire_Shadow.png"
+        }
       }
     ]
   },
@@ -2731,7 +2755,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7876290101673753,
+        "zoomFactor": 0.4950840073748888,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -3799,7 +3823,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5843784410741294,
+        "zoomFactor": 0.23089183385226353,
         "windowMask": true,
         "selectedLayer": ""
       },
@@ -4192,14 +4216,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 132,
+          "height": 178,
           "keepRatio": true,
           "layer": "",
           "name": "Ice_trigger_zone",
           "persistentUuid": "42467ad4-6c7c-4d3d-bade-256e32dc5a01",
-          "width": 134,
+          "width": 215,
           "x": 2084,
-          "y": 282,
+          "y": 236,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -4451,23 +4475,6 @@
           "x": 4594,
           "y": -53,
           "zOrder": 30,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 18,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Last_Platform_OBJECT",
-          "persistentUuid": "f3a0c516-9f1f-48cc-abe7-49c21c8646e5",
-          "width": 13,
-          "x": 4782,
-          "y": -101,
-          "zOrder": 32,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4790,16 +4797,17 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
           "keepRatio": true,
           "layer": "",
-          "name": "Fuel",
-          "persistentUuid": "d96ea758-a493-42a5-b563-f68bbbde3db1",
-          "width": 0,
-          "x": 1418,
-          "y": 352,
-          "zOrder": 61,
+          "name": "Fire_Burning",
+          "persistentUuid": "f69f94f7-49fa-4d7f-b48d-3f53d2894bc5",
+          "width": 31,
+          "x": 4774,
+          "y": -106,
+          "zOrder": 73,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4810,12 +4818,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Fuel",
-          "persistentUuid": "66700101-f09b-4412-a8c2-95e4819cb1e6",
+          "name": "Coins",
+          "persistentUuid": "9c06a0c8-a15f-467d-85f7-25e925ef0a81",
           "width": 0,
-          "x": 1534,
-          "y": 349,
-          "zOrder": 62,
+          "x": 1410,
+          "y": 361,
+          "zOrder": 74,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4826,12 +4834,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Fuel",
-          "persistentUuid": "36540a7b-c956-45cb-8b0d-098b2773d255",
+          "name": "Coins",
+          "persistentUuid": "6a707be9-9903-45f3-86ac-552c4659dad3",
           "width": 0,
-          "x": 1654,
-          "y": 349,
-          "zOrder": 65,
+          "x": 1532,
+          "y": 356,
+          "zOrder": 75,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4842,12 +4850,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Fuel",
-          "persistentUuid": "491cafc9-720a-4ae4-b293-6ed6999d6d71",
+          "name": "Coins",
+          "persistentUuid": "b64af45f-8236-4cbb-ba0c-b3b97fcce60d",
           "width": 0,
-          "x": 1982,
-          "y": 381,
-          "zOrder": 67,
+          "x": 1658,
+          "y": 355,
+          "zOrder": 76,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4858,12 +4866,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Fuel",
-          "persistentUuid": "b641089c-1382-4239-b902-94446a36a1f8",
+          "name": "Coins",
+          "persistentUuid": "dfc3a703-1b64-45cd-abd7-be7ccd532640",
           "width": 0,
-          "x": 2035,
-          "y": 329,
-          "zOrder": 68,
+          "x": 1991,
+          "y": 367,
+          "zOrder": 78,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4874,12 +4882,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Fuel",
-          "persistentUuid": "d4206978-aba4-45d3-89e7-c4d6c036904e",
+          "name": "Coins",
+          "persistentUuid": "451f503a-395c-41f7-87de-14f2bcd47b0c",
           "width": 0,
-          "x": 2093,
-          "y": 316,
-          "zOrder": 69,
+          "x": 2062,
+          "y": 311,
+          "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4890,28 +4898,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Fuel",
-          "persistentUuid": "e65b1625-2f8e-4f62-b945-5df381cb8b7b",
+          "name": "Coins",
+          "persistentUuid": "9ba8c978-ad75-4ed8-b5e1-e8dbc8c01f26",
           "width": 0,
-          "x": 2148,
-          "y": 313,
-          "zOrder": 70,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Fuel",
-          "persistentUuid": "16d44f9f-69b1-4035-8989-f5b4062a15bc",
-          "width": 0,
-          "x": 2191,
-          "y": 325,
-          "zOrder": 71,
+          "x": 2174,
+          "y": 306,
+          "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -13718,6 +13710,282 @@
             "lineHeight": 0,
             "color": "255;255;255"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "ac7713734fef0dace46d3acd0513fad9f668f0d440ed746bab0109e978728682",
+          "name": "Campfire2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Campfire_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 29
+                          },
+                          {
+                            "x": 5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Campfire_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 29
+                          },
+                          {
+                            "x": 5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "897eb91ec49b8942e61d63bd4ab3f2718d6f9576a62cd3cc59f4f01ad2221f98",
+          "name": "Fire_Burning",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fire Burning_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fire Burning_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fire Burning_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fire Burning_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -13760,6 +14028,12 @@
           },
           {
             "objectName": "Last_Platform_OBJECT"
+          },
+          {
+            "objectName": "Campfire2"
+          },
+          {
+            "objectName": "Fire_Burning"
           },
           {
             "objectName": "Floor_Bottom"
@@ -15558,8 +15832,8 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Fire_Ball",
-                "Last_Platform_OBJECT",
+                "Platformer_Character",
+                "Fire_Burning",
                 "",
                 "",
                 ""
