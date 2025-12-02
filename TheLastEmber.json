@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 248,
+    "build": 246,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -2549,27 +2549,179 @@
         "userAdded": false
       },
       {
-        "file": "assets/Shaded Yellow Fill Bar.png",
+        "file": "assets/tiled_Tiled Empty UI Heart.png",
         "kind": "image",
         "metadata": "",
-        "name": "Shaded Yellow Fill Bar.png",
-        "smoothed": true,
+        "name": "tiled_Tiled Empty UI Heart.png",
+        "smoothed": false,
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/ac0ee866c59fb4ae98d677c587fb14df67301d8ef0641f7d4eafceebcd63185d_Shaded Yellow Fill Bar.png",
-          "name": "Shaded Yellow Fill Bar.png"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/688519c5bb4abaf5805518633f2ff810928e29164497fb5c13dabf97044be843_tiled_Tiled Empty UI Heart.png",
+          "name": "tiled_Tiled Empty UI Heart.png"
         }
       },
       {
-        "file": "assets/Wood Bar Border.png",
+        "file": "assets/tiled_Tiled Filler UI Heart.png",
         "kind": "image",
         "metadata": "",
-        "name": "Wood Bar Border.png",
-        "smoothed": true,
+        "name": "tiled_Tiled Filler UI Heart.png",
+        "smoothed": false,
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/5c3135f6fa8587da82ddea950881fc8b35d422bb806d9331f8b47fdc715ee76a_Wood Bar Border.png",
-          "name": "Wood Bar Border.png"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/5b5c6c85ec4e1f5b6688be565c9a06920a76ee191915738afd61da1481fd6493_tiled_Tiled Filler UI Heart.png",
+          "name": "tiled_Tiled Filler UI Heart.png"
+        }
+      },
+      {
+        "file": "assets/NewTiledSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite9.png\"}",
+        "name": "NewTiledSprite9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite10.png\"}",
+        "name": "NewTiledSprite10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/New dialogue tree.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\"}",
+        "name": "New dialogue tree",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/StoryTxt.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/StoryTxt.json\"}",
+        "name": "StoryTxt",
+        "userAdded": false
+      },
+      {
+        "file": "assets/Character.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Character",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Character2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/Character2.png\"}",
+        "name": "Character2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Character3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Character3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Character4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/Character4.png\"}",
+        "name": "Character4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Campfire_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Campfire_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Non Combat Actions/e732df12dd7fbff850de517b7dfe4992008c68d9f6fa44812cb94a546381631f_Campfire_No Shadow.png",
+          "name": "Campfire_No Shadow.png"
+        }
+      },
+      {
+        "file": "assets/Campfire_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Campfire_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Non Combat Actions/e17db548309fb85a7be86018b4a7df7c5d34193efeb8ecf531bd44e5f238a001_Campfire_Shadow.png",
+          "name": "Campfire_Shadow.png"
         }
       }
     ]
@@ -2603,7 +2755,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7876290101673753,
+        "zoomFactor": 0.4950840073748888,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -2817,7 +2969,7 @@
               },
               "parameters": [
                 "",
-                "\"Level 1\"",
+                "\"Story\"",
                 ""
               ]
             }
@@ -2913,8 +3065,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Transision",
-      "name": "Transision",
+      "mangledName": "Story",
+      "name": "Story",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -2932,25 +3084,572 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.9296875000000003,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "Character"
       },
       "objectsGroups": [],
-      "variables": [],
-      "instances": [],
-      "objects": [],
+      "variables": [
+        {
+          "name": "Layers",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 719,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ee40253c-4826-4769-8d51-3022c5f2de32",
+          "width": 1278,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 204,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "73f6bd9c-93ab-40a8-b594-a6f3e4d18ca6",
+          "width": 1280,
+          "x": 0,
+          "y": 516,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "nextTxt",
+          "persistentUuid": "fb5d4765-05c0-471d-ace2-f5fa0cbad3d2",
+          "width": 0,
+          "x": 1040,
+          "y": 687,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "StoryTxt",
+          "persistentUuid": "494e60f3-de05-4979-a7de-b25e799c0cc3",
+          "width": 0,
+          "x": 0,
+          "y": 516,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 120,
+          "keepRatio": true,
+          "layer": "Character",
+          "name": "Character",
+          "persistentUuid": "6b6c6d1a-f134-4023-bbb8-c606aacd8fbd",
+          "width": 126,
+          "x": 331,
+          "y": 387,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "NewTiledSprite14",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "nextTxt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Click the screen to continue ->",
+          "font": "Charm-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Click the screen to continue ->",
+            "font": "Charm-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "NewText2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "This is the story of a loney fire that was created at the start of creation.",
+          "font": "Charm-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "This is the story of a loney fire that was created at the start of creation.",
+            "font": "Charm-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "StoryTxt",
+          "type": "BBText::BBText",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "Story:\n",
+            "opacity": 255,
+            "fontSize": 20,
+            "visible": true,
+            "color": "0;0;0",
+            "fontFamily": "Charm-Regular.ttf",
+            "align": "left",
+            "verticalTextAlignment": "top"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Character",
+          "texture": "Character4",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        }
+      ],
       "objectsFolderStructure": {
-        "folderName": "__ROOT"
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "nextTxt"
+          },
+          {
+            "objectName": "NewText2"
+          },
+          {
+            "objectName": "NewSprite"
+          },
+          {
+            "objectName": "StoryTxt"
+          },
+          {
+            "objectName": "Character"
+          }
+        ]
       },
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "DialogueTree::LoadDialogueFromJsonFile"
+              },
+              "parameters": [
+                "",
+                "StoryTxt"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"scroller\""
+              ]
+            },
+            {
+              "type": {
+                "value": "DialogueTree::StartDialogueFromBranch"
+              },
+              "parameters": [
+                "\"Start\""
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"Character\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsDialogueLineType"
+              },
+              "parameters": [
+                "\"text\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "BBText::SetBBText"
+              },
+              "parameters": [
+                "StoryTxt",
+                "=",
+                "DialogueTree::ClippedLineText()"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scroller\"",
+                    ">=",
+                    "0.005"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "DialogueTree::ScrollClippedText"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"scroller\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonFromTextReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Left\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "DialogueTree::HasClippedTextScrollingCompleted"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "DialogueTree::GoToNextLine"
+                      },
+                      "parameters": []
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Layers",
+                        "+",
+                        "1"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "DialogueTree::IsDialogueRunning"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 1\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Layers",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"Character\""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Layer",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
         {
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
@@ -3015,9 +3714,92 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Character",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
     },
     {
       "b": 255,
@@ -3041,9 +3823,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875000000035,
+        "zoomFactor": 0.3437520241612541,
         "windowMask": true,
-        "selectedLayer": "UI"
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -3434,14 +4216,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
+          "height": 178,
           "keepRatio": true,
           "layer": "",
           "name": "Ice_trigger_zone",
           "persistentUuid": "42467ad4-6c7c-4d3d-bade-256e32dc5a01",
-          "width": 79,
+          "width": 215,
           "x": 2084,
-          "y": 350,
+          "y": 236,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -3693,23 +4475,6 @@
           "x": 4594,
           "y": -53,
           "zOrder": 30,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 18,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Last_Platform_OBJECT",
-          "persistentUuid": "f3a0c516-9f1f-48cc-abe7-49c21c8646e5",
-          "width": 13,
-          "x": 4782,
-          "y": -101,
-          "zOrder": 32,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4032,33 +4797,113 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
           "keepRatio": true,
-          "layer": "MiniGame",
-          "name": "Health_Bar",
-          "persistentUuid": "eecba0ed-44c2-4d77-9c53-7b61968243fd",
-          "width": 0,
-          "x": 349,
-          "y": 529,
-          "zOrder": 53,
+          "layer": "",
+          "name": "Fire_Burning",
+          "persistentUuid": "f69f94f7-49fa-4d7f-b48d-3f53d2894bc5",
+          "width": 31,
+          "x": 4774,
+          "y": -106,
+          "zOrder": 73,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 64,
-          "height": 74,
+          "customSize": false,
+          "height": 0,
           "keepRatio": true,
-          "layer": "UI",
-          "name": "Health_Bar",
-          "persistentUuid": "d7e3b8e1-0660-4385-a9d7-cb95a6ca3a1b",
-          "width": 391,
-          "x": 57,
-          "y": 596,
-          "zOrder": 54,
+          "layer": "",
+          "name": "Coins",
+          "persistentUuid": "9c06a0c8-a15f-467d-85f7-25e925ef0a81",
+          "width": 0,
+          "x": 1410,
+          "y": 361,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Coins",
+          "persistentUuid": "6a707be9-9903-45f3-86ac-552c4659dad3",
+          "width": 0,
+          "x": 1532,
+          "y": 356,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Coins",
+          "persistentUuid": "b64af45f-8236-4cbb-ba0c-b3b97fcce60d",
+          "width": 0,
+          "x": 1658,
+          "y": 355,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Coins",
+          "persistentUuid": "dfc3a703-1b64-45cd-abd7-be7ccd532640",
+          "width": 0,
+          "x": 1991,
+          "y": 367,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Coins",
+          "persistentUuid": "451f503a-395c-41f7-87de-14f2bcd47b0c",
+          "width": 0,
+          "x": 2062,
+          "y": 311,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Coins",
+          "persistentUuid": "9ba8c978-ad75-4ed8-b5e1-e8dbc8c01f26",
+          "width": 0,
+          "x": 2174,
+          "y": 306,
+          "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12867,22 +13712,280 @@
           }
         },
         {
-          "assetStoreId": "805020d83a9f62501db39c113f2b92bb91f651bb9e462ae5f83d1412c35d3d8a",
-          "name": "Health_Bar",
-          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-          "variant": "Wood Yellow Bar",
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "ac7713734fef0dace46d3acd0513fad9f668f0d440ed746bab0109e978728682",
+          "name": "Campfire2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "content": {
-            "InitialValue": 25,
-            "MaxValue": 25,
-            "BarTopPadding": 8,
-            "BarRightPadding": 10,
-            "BarBottomPadding": 8,
-            "BarLeftPadding": 10,
-            "PreviousHighValueDuration": 0
-          }
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Campfire_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 29
+                          },
+                          {
+                            "x": 5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Campfire_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 29
+                          },
+                          {
+                            "x": 5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "897eb91ec49b8942e61d63bd4ab3f2718d6f9576a62cd3cc59f4f01ad2221f98",
+          "name": "Fire_Burning",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fire Burning_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fire Burning_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fire Burning_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fire Burning_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 3
+                          },
+                          {
+                            "x": 28,
+                            "y": 32
+                          },
+                          {
+                            "x": 4,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -12925,6 +14028,12 @@
           },
           {
             "objectName": "Last_Platform_OBJECT"
+          },
+          {
+            "objectName": "Campfire2"
+          },
+          {
+            "objectName": "Fire_Burning"
           },
           {
             "objectName": "Floor_Bottom"
@@ -13023,9 +14132,6 @@
           },
           {
             "objectName": "guide7txt"
-          },
-          {
-            "objectName": "Health_Bar"
           }
         ]
       },
@@ -13411,7 +14517,7 @@
           "conditions": [
             {
               "type": {
-                "value": "MouseButtonFromTextReleased"
+                "value": "MouseButtonFromTextPressed"
               },
               "parameters": [
                 "",
@@ -14726,8 +15832,8 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Fire_Ball",
-                "Last_Platform_OBJECT",
+                "Platformer_Character",
+                "Fire_Burning",
                 "",
                 "",
                 ""
@@ -14746,73 +15852,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Health"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-              },
-              "parameters": [
-                "Health_Bar",
-                "-",
-                "1",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
-              },
-              "parameters": [
-                "Health_Bar",
-                "=",
-                "0",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Death\"",
-                ""
-              ]
-            }
-          ]
         }
       ],
       "layers": [
@@ -14827,7 +15866,7 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": false,
+          "isLocked": true,
           "name": "Background",
           "renderingType": "",
           "visibility": true,
@@ -14874,10 +15913,10 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": false,
+          "isLocked": true,
           "name": "MiniGame",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -14946,10 +15985,10 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": false,
+          "isLocked": true,
           "name": "Map",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -15000,64 +16039,10 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": false,
+          "isLocked": true,
           "name": "OverLayer",
           "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera2DPlaneMaxDrawingDistance": 5000,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "UI",
-          "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -42137,12 +43122,12 @@
       "author": "",
       "category": "User interface",
       "extensionNamespace": "",
-      "fullName": "Resource bar (continuous)",
+      "fullName": "Resource bar (separated units)",
       "gdevelopVersion": ">=5.5.230",
       "helpPath": "/objects/resource-bar",
-      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBkPSJNMjgsMTJIMTRINGMtMi4yLDAtNCwxLjgtNCw0czEuOCw0LDQsNGgxMGgxNGMyLjIsMCw0LTEuOCw0LTRTMzAuMiwxMiwyOCwxMnogTTQsMThjLTEuMSwwLTItMC45LTItMnMwLjktMiwyLTJoMTANCgljMS4xLDAsMiwwLjksMiwycy0wLjksMi0yLDJINHoiLz4NCjwvc3ZnPg0K",
-      "name": "PanelSpriteContinuousBar",
-      "previewIconUrl": "https://asset-resources.gdevelop.io/public-resources/Icons/Glyphster Pack/Master/SVG/Interface Elements/ea06363a57846caab544f536b78a952234b68d4941d41c1577852a1d61aefec3_Interface Elements_interface_ui_loading_progress_bar.svg",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWRvdHMtaG9yaXpvbnRhbCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xNiwxMkEyLDIgMCAwLDEgMTgsMTBBMiwyIDAgMCwxIDIwLDEyQTIsMiAwIDAsMSAxOCwxNEEyLDIgMCAwLDEgMTYsMTJNMTAsMTJBMiwyIDAgMCwxIDEyLDEwQTIsMiAwIDAsMSAxNCwxMkEyLDIgMCAwLDEgMTIsMTRBMiwyIDAgMCwxIDEwLDEyTTQsMTJBMiwyIDAgMCwxIDYsMTBBMiwyIDAgMCwxIDgsMTJBMiwyIDAgMCwxIDYsMTRBMiwyIDAgMCwxIDQsMTJaIiAvPjwvc3ZnPg==",
+      "name": "TiledUnitsBar",
+      "previewIconUrl": "https://asset-resources.gdevelop.io/public-resources/Icons/063e9152cf65bc0f3be2a828afd950c3ecf1b1fc72feefdc2467252fe987dc0f_dots-horizontal.svg",
       "shortDescription": "A bar that represents a resource in the game (health, mana, ammo, etc).",
       "version": "2.0.0",
       "description": [
@@ -42151,7 +43136,7 @@
         "There are ready-to-use resource bars in the asset-store [resource bars pack](https://editor.gdevelop.io/?initial-dialog=asset-store&asset-pack=resource-bars-resource-bars)."
       ],
       "origin": {
-        "identifier": "PanelSpriteContinuousBar",
+        "identifier": "TiledUnitsBar",
         "name": "gdevelop-extension-store"
       },
       "tags": [
@@ -42178,7 +43163,100 @@
       "dependencies": [],
       "globalVariables": [],
       "sceneVariables": [],
-      "eventsFunctions": [],
+      "eventsFunctions": [
+        {
+          "description": "left anchor",
+          "fullName": "Left anchor",
+          "functionType": "ExpressionAndCondition",
+          "name": "LeftEdgeAnchor",
+          "private": true,
+          "sentence": "Left anchor of _PARAM1_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "gdjs._TiledUnitsBarExtension = gdjs._TiledUnitsBarExtension || {",
+                "    anchors: [\"None\", \"Min\", \"Max\", \"Proportional\", \"Center\"]",
+                "}",
+                "const { anchors } = gdjs._TiledUnitsBarExtension;",
+                "",
+                "const object = objects[0];",
+                "/** @type {gdjs.AnchorRuntimeBehavior} */",
+                "const anchor = object.getBehavior(eventsFunctionContext.getBehaviorName(\"Anchor\"));",
+                "eventsFunctionContext.returnValue = anchors[anchor._leftEdgeAnchor] || \"None\";",
+                ""
+              ],
+              "parameterObjects": "Object",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "supplementaryInformation": "[\"None\",\"Min\",\"Max\",\"Proportional\",\"Center\"]",
+            "type": "stringWithSelector"
+          },
+          "parameters": [
+            {
+              "description": "Object",
+              "name": "Object",
+              "type": "objectList"
+            },
+            {
+              "description": "Anchor",
+              "name": "Anchor",
+              "supplementaryInformation": "AnchorBehavior::AnchorBehavior",
+              "type": "behavior"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "left anchor",
+          "fullName": "Right anchor",
+          "functionType": "ExpressionAndCondition",
+          "name": "RightEdgeAnchor",
+          "private": true,
+          "sentence": "Right anchor of _PARAM1_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "gdjs._TiledUnitsBarExtension = gdjs._TiledUnitsBarExtension || {",
+                "    anchors: [\"None\", \"Min\", \"Max\", \"Proportional\", \"Center\"]",
+                "}",
+                "const { anchors } = gdjs._TiledUnitsBarExtension;",
+                "",
+                "const object = objects[0];",
+                "/** @type {gdjs.AnchorRuntimeBehavior} */",
+                "const anchor = object.getBehavior(eventsFunctionContext.getBehaviorName(\"Anchor\"));",
+                "eventsFunctionContext.returnValue = anchors[anchor._rightEdgeAnchor] || \"None\";",
+                ""
+              ],
+              "parameterObjects": "Object",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "supplementaryInformation": "[\"None\",\"Min\",\"Max\",\"Proportional\",\"Center\"]",
+            "type": "stringWithSelector"
+          },
+          "parameters": [
+            {
+              "description": "Object",
+              "name": "Object",
+              "type": "objectList"
+            },
+            {
+              "description": "Anchor",
+              "name": "Anchor",
+              "supplementaryInformation": "AnchorBehavior::AnchorBehavior",
+              "type": "behavior"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
       "eventsBasedBehaviors": [
         {
           "description": "A bar that represents a resource in the game (health, mana, ammo, etc).",
@@ -42224,7 +43302,7 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::ResourceBar::UpdatePreviousHighValue"
+                        "value": "TiledUnitsBar::ResourceBar::UpdatePreviousHighValue"
                       },
                       "parameters": [
                         "Object",
@@ -42244,7 +43322,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42284,7 +43362,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42308,7 +43386,7 @@
                       "parameters": [
                         "CurrentValue",
                         "=",
-                        "clamp(Value, 0, Object.Behavior::MaxValue())"
+                        "clamp(Value, 0, MaxValue)"
                       ]
                     }
                   ]
@@ -42323,7 +43401,7 @@
                       "parameters": [
                         "Value",
                         "<",
-                        "Object.Behavior::PreviousHighValue()"
+                        "PreviousHighValue"
                       ]
                     }
                   ],
@@ -42356,7 +43434,7 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::ResourceBar::UpdatePreviousHighValue"
+                        "value": "TiledUnitsBar::ResourceBar::UpdatePreviousHighValue"
                       },
                       "parameters": [
                         "Object",
@@ -42376,7 +43454,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42417,7 +43495,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42456,7 +43534,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42504,7 +43582,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42552,7 +43630,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42592,7 +43670,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42631,7 +43709,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42641,7 +43719,7 @@
               "description": "the previous high value conservation duration (in seconds) of the object.",
               "fullName": "Previous high value conservation duration",
               "functionType": "ExpressionAndCondition",
-              "group": "FillBar bar configuration",
+              "group": "Resource bar configuration",
               "name": "PreviousHighValueDuration",
               "sentence": "the previous high value conservation duration",
               "events": [
@@ -42672,7 +43750,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42711,7 +43789,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42729,12 +43807,14 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "NumberVariable"
+                        "value": "TiledUnitsBar::ResourceBar::PreviousHighValue"
                       },
                       "parameters": [
-                        "PreviousHighValue",
+                        "Object",
+                        "Behavior",
                         "!=",
-                        "CurrentValue"
+                        "CurrentValue",
+                        ""
                       ]
                     },
                     {
@@ -42770,7 +43850,7 @@
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -42801,7 +43881,6 @@
               "value": "1",
               "type": "Number",
               "label": "Previous high value conservation duration (in seconds)",
-              "hidden": true,
               "name": "PreviousHighValueDuration"
             }
           ],
@@ -42810,27 +43889,26 @@
       ],
       "eventsBasedObjects": [
         {
-          "areaMaxX": 256,
-          "areaMaxY": 64,
+          "areaMaxX": 96,
+          "areaMaxY": 32,
           "areaMaxZ": 64,
           "areaMinX": 0,
           "areaMinY": 0,
           "areaMinZ": 0,
           "defaultName": "ResourceBar",
           "description": "A bar that represents a resource in the game (health, mana, ammo, etc).",
-          "fullName": "Resource bar (continuous)",
+          "fullName": "Resource bar (separated units)",
           "isInnerAreaFollowingParentSize": true,
           "isUsingLegacyInstancesRenderer": false,
-          "name": "PanelSpriteContinuousBar",
+          "name": "TiledUnitsBar",
           "objects": [
             {
               "assetStoreId": "",
-              "bold": false,
-              "italic": false,
-              "name": "Label",
-              "smoothed": true,
-              "type": "TextObject::Text",
-              "underlined": false,
+              "height": 32,
+              "name": "FillBar",
+              "texture": "",
+              "type": "TiledSpriteObject::TiledSprite",
+              "width": 32,
               "variables": [],
               "effects": [],
               "behaviors": [
@@ -42839,94 +43917,26 @@
                   "type": "AnchorBehavior::AnchorBehavior",
                   "bottomEdgeAnchor": 4,
                   "leftEdgeAnchor": 4,
+                  "relativeToOriginalWindowSize": true,
                   "rightEdgeAnchor": 4,
                   "topEdgeAnchor": 4,
-                  "relativeToOriginalWindowSize": true,
-                  "useLegacyBottomAndRightAnchors": false
-                }
-              ],
-              "string": "2 / 3",
-              "font": "",
-              "textAlignment": "center",
-              "characterSize": 20,
-              "color": {
-                "b": 0,
-                "g": 0,
-                "r": 0
-              },
-              "content": {
-                "bold": false,
-                "isOutlineEnabled": false,
-                "isShadowEnabled": false,
-                "italic": false,
-                "outlineColor": "255;255;255",
-                "outlineThickness": 2,
-                "shadowAngle": 90,
-                "shadowBlurRadius": 2,
-                "shadowColor": "0;0;0",
-                "shadowDistance": 4,
-                "shadowOpacity": 127,
-                "smoothed": true,
-                "underlined": false,
-                "text": "2 / 3",
-                "font": "",
-                "textAlignment": "center",
-                "verticalTextAlignment": "center",
-                "characterSize": 20,
-                "lineHeight": 0,
-                "color": "0;0;0"
-              }
-            },
-            {
-              "assetStoreId": "",
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "name": "FillBar",
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": false,
-              "topMargin": 0,
-              "type": "PanelSpriteObject::PanelSprite",
-              "width": 32,
-              "variables": [],
-              "effects": [],
-              "behaviors": [
-                {
-                  "name": "Anchor",
-                  "type": "AnchorBehavior::AnchorBehavior",
-                  "bottomEdgeAnchor": 2,
-                  "leftEdgeAnchor": 1,
-                  "relativeToOriginalWindowSize": true,
-                  "rightEdgeAnchor": 2,
-                  "topEdgeAnchor": 1,
                   "useLegacyBottomAndRightAnchors": false
                 },
                 {
                   "name": "ResourceBar",
-                  "type": "PanelSpriteContinuousBar::ResourceBar",
+                  "type": "TiledUnitsBar::ResourceBar",
                   "Value": 1,
                   "MaxValue": 3,
-                  "PreviousValue": 0,
-                  "CurrentValue": 1
-                },
-                {
-                  "name": "Tween",
-                  "type": "Tween::TweenBehavior"
+                  "PreviousValue": 0
                 }
               ]
             },
             {
               "assetStoreId": "",
-              "bottomMargin": 0,
               "height": 32,
-              "leftMargin": 0,
-              "name": "Buffer",
-              "rightMargin": 0,
+              "name": "Bar",
               "texture": "",
-              "tiled": false,
-              "topMargin": 0,
-              "type": "PanelSpriteObject::PanelSprite",
+              "type": "TiledSpriteObject::TiledSprite",
               "width": 32,
               "variables": [],
               "effects": [],
@@ -42934,16 +43944,12 @@
                 {
                   "name": "Anchor",
                   "type": "AnchorBehavior::AnchorBehavior",
-                  "bottomEdgeAnchor": 2,
-                  "leftEdgeAnchor": 1,
+                  "bottomEdgeAnchor": 4,
+                  "leftEdgeAnchor": 4,
                   "relativeToOriginalWindowSize": true,
-                  "rightEdgeAnchor": 2,
-                  "topEdgeAnchor": 1,
+                  "rightEdgeAnchor": 4,
+                  "topEdgeAnchor": 4,
                   "useLegacyBottomAndRightAnchors": false
-                },
-                {
-                  "name": "Tween",
-                  "type": "Tween::TweenBehavior"
                 }
               ]
             },
@@ -42979,13 +43985,10 @@
             "folderName": "__ROOT",
             "children": [
               {
-                "objectName": "Label"
-              },
-              {
                 "objectName": "FillBar"
               },
               {
-                "objectName": "Buffer"
+                "objectName": "Bar"
               },
               {
                 "objectName": "Background"
@@ -43028,12 +44031,12 @@
             {
               "angle": 0,
               "customSize": true,
-              "depth": 0,
-              "height": 64,
+              "depth": 1,
+              "height": 32,
               "layer": "",
               "name": "Background",
-              "persistentUuid": "fa2b0c42-1baa-489d-9c47-87ec233cbe8c",
-              "width": 256,
+              "persistentUuid": "b13e773c-6941-4f67-b198-030f29c8b679",
+              "width": 96,
               "x": 0,
               "y": 0,
               "zOrder": 1,
@@ -43045,13 +44048,13 @@
               "angle": 0,
               "customSize": true,
               "depth": 1,
-              "height": 44,
+              "height": 26,
               "layer": "",
-              "name": "Buffer",
-              "persistentUuid": "6e01eec9-ca43-4a5c-b4e1-4d9d384473e2",
-              "width": 236,
-              "x": 10,
-              "y": 10,
+              "name": "Bar",
+              "persistentUuid": "caf6fdad-096d-4247-b23b-6cc1a89ce9f8",
+              "width": 90,
+              "x": 3,
+              "y": 3,
               "zOrder": 2,
               "numberProperties": [],
               "stringProperties": [],
@@ -43061,30 +44064,14 @@
               "angle": 0,
               "customSize": true,
               "depth": 1,
-              "height": 44,
+              "height": 26,
               "layer": "",
               "name": "FillBar",
-              "persistentUuid": "4833affb-a8d1-4a2b-9019-a20cf5fdc68e",
-              "width": 196,
-              "x": 10,
-              "y": 10,
+              "persistentUuid": "4b784a8f-dbae-4d8b-a287-628642416d10",
+              "width": 60,
+              "x": 3,
+              "y": 3,
               "zOrder": 3,
-              "numberProperties": [],
-              "stringProperties": [],
-              "initialVariables": []
-            },
-            {
-              "angle": 0,
-              "customSize": true,
-              "depth": 0,
-              "height": 64,
-              "layer": "",
-              "name": "Label",
-              "persistentUuid": "0e63f21c-2071-4765-8254-e9021fa84ec4",
-              "width": 256,
-              "x": 0,
-              "y": 32,
-              "zOrder": 4,
               "numberProperties": [],
               "stringProperties": [],
               "initialVariables": []
@@ -43098,122 +44085,6 @@
               "name": "onCreated",
               "sentence": "",
               "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Comment",
-                  "color": {
-                    "b": 109,
-                    "g": 230,
-                    "r": 255,
-                    "textB": 0,
-                    "textG": 0,
-                    "textR": 0
-                  },
-                  "comment": "Anchors won't work as there is an absolute margin and a proportional size at the same time"
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Anchor",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        "Anchor",
-                        ""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "SceneInstancesCount"
-                          },
-                          "parameters": [
-                            "",
-                            "Buffer",
-                            ">",
-                            "0"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "BarLeftPlusRightMargin",
-                            "=",
-                            "Object.Width() - (max(FillBar.BoundingBoxRight(), Buffer.BoundingBoxRight()) - min(FillBar.BoundingBoxLeft(), Buffer.BoundingBoxLeft()))"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "BarTopPlusBottomMargin",
-                            "=",
-                            "Object.Height() - (max(FillBar.BoundingBoxBottom(), Buffer.BoundingBoxBottom()) - min(FillBar.BoundingBoxTop(), Buffer.BoundingBoxTop()))"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "SceneInstancesCount"
-                          },
-                          "parameters": [
-                            "",
-                            "Buffer",
-                            "=",
-                            "0"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "BarLeftPlusRightMargin",
-                            "=",
-                            "Object.Width() - (FillBar.BoundingBoxRight() - FillBar.BoundingBoxLeft())"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "BarTopPlusBottomMargin",
-                            "=",
-                            "Object.Height() - (FillBar.BoundingBoxBottom() - FillBar.BoundingBoxTop())"
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
                 {
                   "type": "BuiltinCommonInstructions::Comment",
                   "color": {
@@ -43241,7 +44112,24 @@
                       ]
                     }
                   ]
-                },
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
                 {
                   "type": "BuiltinCommonInstructions::Comment",
                   "color": {
@@ -43252,150 +44140,38 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Create the child-object instances."
+                  "comment": "Pass the configuration to the behavior (MaxValue must be set before Value)."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
-                        "value": "NumberVariable"
+                        "value": "BuiltinCommonInstructions::Once"
                       },
-                      "parameters": [
-                        "PreviousHighValueDuration",
-                        "=",
-                        "0"
-                      ]
+                      "parameters": []
                     }
                   ],
                   "actions": [
                     {
                       "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Comment",
-                  "color": {
-                    "b": 109,
-                    "g": 230,
-                    "r": 255,
-                    "textB": 0,
-                    "textG": 0,
-                    "textR": 0
-                  },
-                  "comment": "Create the label over the bar."
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ShowLabel",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "Label"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Comment",
-                  "color": {
-                    "b": 109,
-                    "g": 230,
-                    "r": 255,
-                    "textB": 0,
-                    "textG": 0,
-                    "textR": 0
-                  },
-                  "comment": "Pass the configuration to the behavior."
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+                        "value": "TiledUnitsBar::TiledUnitsBar::SetMaxValue"
                       },
                       "parameters": [
                         "Object",
                         "=",
                         "MaxValue",
-                        "Object.PropertyMaxValue()"
+                        ""
                       ]
                     },
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::ResourceBar::SetValue"
+                        "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
                       },
                       "parameters": [
-                        "FillBar",
-                        "ResourceBar",
+                        "Object",
                         "=",
                         "InitialValue",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Resizable",
-                        "=",
-                        "Object.WidthForValue()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        "Resizable",
-                        "=",
-                        "FillBar.Width()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetPreviousValueDuration"
-                      },
-                      "parameters": [
-                        "Object",
-                        "=",
-                        "PreviousHighValueDuration",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::UpdateLabel"
-                      },
-                      "parameters": [
-                        "Object",
                         ""
                       ]
                     }
@@ -43406,7 +44182,7 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
                 }
               ],
@@ -43424,16 +44200,18 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::UpdateLayout"
+                        "value": "TiledUnitsBar::TiledUnitsBar::SetUnitWidth"
                       },
                       "parameters": [
                         "Object",
-                        ""
+                        "=",
+                        "UnitWidth",
+                        "Object.PropertyMaxValue()"
                       ]
                     },
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+                        "value": "TiledUnitsBar::TiledUnitsBar::SetMaxValue"
                       },
                       "parameters": [
                         "Object",
@@ -43471,7 +44249,7 @@
                     },
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                        "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
                       },
                       "parameters": [
                         "Object",
@@ -43479,44 +44257,6 @@
                         "InitialValue",
                         "Object.PropertyInitialValue()"
                       ]
-                    },
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetPreviousValueDuration"
-                      },
-                      "parameters": [
-                        "Object",
-                        "=",
-                        "PreviousHighValueDuration",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::RemoveTween"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Tween",
-                        "\"ChangeValue\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Resizable",
-                        "=",
-                        "Object.WidthForValue()"
-                      ]
                     }
                   ]
                 }
@@ -43525,258 +44265,7 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-                  "type": "object"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "Action",
-              "name": "doStepPostEvents",
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "OldParentWidth",
-                        "!=",
-                        "Object.Width()"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "OldParentWidth",
-                        "=",
-                        "Object.Width()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Resizable",
-                        "=",
-                        "Object.WidthForValue()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        "Resizable",
-                        "=",
-                        "FillBar.Width()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::RemoveTween"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Tween",
-                        "\"ChangeValue\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::RemoveTween"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        "Tween",
-                        "\"ChangeValue\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Resizable",
-                        "=",
-                        "Object.Height() - BarTopPlusBottomMargin"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        "Resizable",
-                        "=",
-                        "FillBar.Height()"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::IsChanging"
-                      },
-                      "parameters": [
-                        "Object",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Tween::TweenBehavior::AddObjectWidthTween2"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        "Tween",
-                        "\"ChangeValue\"",
-                        "Object.WidthForValue()",
-                        "\"linear\"",
-                        "EasingDuration",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::Width"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Resizable",
-                        "<",
-                        "Buffer.Width()"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::Width"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Resizable",
-                        ">=",
-                        "Buffer.Width()"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "Buffer"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-                  "type": "object"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Center the bar according to the button configuration. This is used in doStepPostEvents when the button is resized.",
-              "fullName": "Update layout",
-              "functionType": "Action",
-              "name": "UpdateLayout",
-              "private": true,
-              "sentence": "Update layout of _PARAM0_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Resizable",
-                        "=",
-                        "Object.WidthForValue()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        "Resizable",
-                        "=",
-                        "FillBar.Width()"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
                 }
               ],
@@ -43812,7 +44301,7 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
                 }
               ],
@@ -43826,12 +44315,24 @@
               "sentence": "",
               "events": [
                 {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "The value is clamped by the behavior. This is why Object.Value() is used instead of Value directly."
+                },
+                {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [],
                   "actions": [
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::ResourceBar::SetValue"
+                        "value": "TiledUnitsBar::ResourceBar::SetValue"
                       },
                       "parameters": [
                         "FillBar",
@@ -43840,107 +44341,14 @@
                         "Value",
                         ""
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
+                    },
                     {
                       "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "EasingDuration",
-                        ">",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Tween::TweenBehavior::AddObjectWidthTween2"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Tween",
-                        "\"ChangeValue\"",
-                        "Object.WidthForValue()",
-                        "\"linear\"",
-                        "EasingDuration",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "EasingDuration",
-                        "<=",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "Resizable",
-                        "=",
-                        "Object.WidthForValue()"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::UpdateLabel"
+                        "value": "TiledUnitsBar::TiledUnitsBar::UpdateBarWidth"
                       },
                       "parameters": [
                         "Object",
                         ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::ResourceBar::IsChanging"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "ResourceBar",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        "Resizable",
-                        "=",
-                        "round(Object.FullBarWidth() * FillBar.ResourceBar::PreviousHighValue() / FillBar.ResourceBar::MaxValue())"
                       ]
                     }
                   ]
@@ -43950,13 +44358,13 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
                 },
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -43992,7 +44400,7 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
                 }
               ],
@@ -44011,7 +44419,7 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::ResourceBar::SetMaxValue"
+                        "value": "TiledUnitsBar::ResourceBar::SetMaxValue"
                       },
                       "parameters": [
                         "FillBar",
@@ -44023,19 +44431,12 @@
                     },
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::UpdateLabel"
+                        "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
                       },
                       "parameters": [
                         "Object",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::UpdateLayout"
-                      },
-                      "parameters": [
-                        "Object",
+                        "=",
+                        "Object.Value()",
                         ""
                       ]
                     }
@@ -44046,13 +44447,13 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
                 },
                 {
                   "description": "Behavior",
                   "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
                   "type": "behavior"
                 }
               ],
@@ -44064,14 +44465,14 @@
               "functionType": "Condition",
               "group": "Resource bar",
               "name": "IsEmpty",
-              "sentence": "_PARAM0_ is empty",
+              "sentence": "_PARAM0_ bar is empty",
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::ResourceBar::IsEmpty"
+                        "value": "TiledUnitsBar::ResourceBar::IsEmpty"
                       },
                       "parameters": [
                         "FillBar",
@@ -44096,7 +44497,7 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
                 }
               ],
@@ -44108,14 +44509,14 @@
               "functionType": "Condition",
               "group": "Resource bar",
               "name": "IsFull",
-              "sentence": "_PARAM0_ is full",
+              "sentence": "_PARAM0_ bar is full",
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::ResourceBar::IsFull"
+                        "value": "TiledUnitsBar::ResourceBar::IsFull"
                       },
                       "parameters": [
                         "FillBar",
@@ -44140,19 +44541,20 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
                 }
               ],
               "objectGroups": []
             },
             {
-              "description": "the previous value conservation duration (in seconds) of the object.",
-              "fullName": "Previous value conservation duration",
+              "description": "the unit width of the object. How much pixels to show for a value of 1.",
+              "fullName": "Unit width",
               "functionType": "ExpressionAndCondition",
               "group": "Resource bar configuration",
-              "name": "PreviousValueDuration",
-              "sentence": "the previous value conservation duration",
+              "name": "UnitWidth",
+              "private": true,
+              "sentence": "the unit width",
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -44163,7 +44565,7 @@
                         "value": "SetReturnNumber"
                       },
                       "parameters": [
-                        "FillBar.ResourceBar::PreviousHighValueDuration()"
+                        "UnitWidth"
                       ]
                     }
                   ]
@@ -44176,7 +44578,7 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
                 }
               ],
@@ -44185,8 +44587,9 @@
             {
               "fullName": "",
               "functionType": "ActionWithOperator",
-              "getterName": "PreviousValueDuration",
-              "name": "SetPreviousValueDuration",
+              "getterName": "UnitWidth",
+              "name": "SetUnitWidth",
+              "private": true,
               "sentence": "",
               "events": [
                 {
@@ -44195,320 +44598,20 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "PanelSpriteContinuousBar::ResourceBar::SetPreviousHighValueDuration"
+                        "value": "SetNumberVariable"
                       },
                       "parameters": [
-                        "FillBar",
-                        "ResourceBar",
+                        "UnitWidth",
                         "=",
-                        "Value",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CompareArgumentAsNumber"
-                      },
-                      "parameters": [
-                        "\"Value\"",
-                        "!=",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "Buffer",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CompareArgumentAsNumber"
-                      },
-                      "parameters": [
-                        "\"Value\"",
-                        "=",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "Buffer"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-                  "type": "object"
-                },
-                {
-                  "description": "Behavior",
-                  "name": "Behavior",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::ResourceBar",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Check if the resource value is changing.",
-              "fullName": "Value is changing",
-              "functionType": "Condition",
-              "group": "Resource bar",
-              "name": "IsChanging",
-              "private": true,
-              "sentence": "_PARAM0_ value is changing",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::ResourceBar::IsChanging"
-                      },
-                      "parameters": [
-                        "FillBar",
-                        "ResourceBar",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnBoolean"
-                      },
-                      "parameters": [
-                        "True"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-                  "type": "object"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "Value width",
-              "functionType": "Expression",
-              "name": "WidthForValue",
-              "private": true,
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnNumber"
-                      },
-                      "parameters": [
-                        "round(Object.FullBarWidth() * FillBar.ResourceBar::Value() / FillBar.ResourceBar::MaxValue())"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "expressionType": {
-                "type": "expression"
-              },
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-                  "type": "object"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "fullName": "",
-              "functionType": "Expression",
-              "name": "FullBarWidth",
-              "private": true,
-              "sentence": "",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnNumber"
-                      },
-                      "parameters": [
-                        "Object.Width() - BarLeftPlusRightMargin"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "expressionType": {
-                "type": "expression"
-              },
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-                  "type": "object"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Check if the label is shown.",
-              "fullName": "Label is shown",
-              "functionType": "Condition",
-              "group": "Resource bar configuration",
-              "name": "IsLabelShown",
-              "sentence": "_PARAM0_ label is shown",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "ShowLabel",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetReturnBoolean"
-                      },
-                      "parameters": [
-                        "True"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "description": "Object",
-                  "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
-                  "type": "object"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Show (or hide) the label on the bar.",
-              "fullName": "Show label",
-              "functionType": "Action",
-              "group": "Resource bar configuration",
-              "name": "SetLabelShown",
-              "sentence": "Show the label of _PARAM0_: _PARAM1_",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "Value",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "ShowLabel",
-                        "False",
-                        ""
+                        "Value"
                       ]
                     },
                     {
                       "type": {
-                        "value": "Cache"
+                        "value": "TiledUnitsBar::TiledUnitsBar::UpdateBarWidth"
                       },
                       "parameters": [
-                        "Label"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "Value",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "ShowLabel",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "Label",
+                        "Object",
                         ""
                       ]
                     }
@@ -44519,24 +44622,19 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
-                },
-                {
-                  "description": "Show the label",
-                  "name": "Value",
-                  "type": "yesorno"
                 }
               ],
               "objectGroups": []
             },
             {
-              "description": "Update the text that display the current value and maximum value.",
-              "fullName": "Update label",
+              "description": "Update the bar width.",
+              "fullName": "Bar width",
               "functionType": "Action",
-              "name": "UpdateLabel",
+              "name": "UpdateBarWidth",
               "private": true,
-              "sentence": "Update label of _PARAM0_",
+              "sentence": "Update the bar width of _PARAM0_",
               "events": [
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -44544,14 +44642,189 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                        "value": "SetNumberVariable"
                       },
                       "parameters": [
-                        "Label",
-                        "Text",
+                        "NewWidth",
                         "=",
-                        "ToString(round(Object.Value())) + \" / \" + ToString(Object.MaxValue())"
+                        "Object.MaxValue() * UnitWidth"
                       ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "TiledUnitsBar::LeftEdgeAnchor"
+                          },
+                          "parameters": [
+                            "",
+                            "=",
+                            "\"Center\"",
+                            "Bar",
+                            "Anchor",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TiledUnitsBar::RightEdgeAnchor"
+                          },
+                          "parameters": [
+                            "",
+                            "=",
+                            "\"Center\"",
+                            "Bar",
+                            "Anchor",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreX"
+                          },
+                          "parameters": [
+                            "Bar",
+                            "-",
+                            "(NewWidth - Bar.Width()) / 2"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "TiledUnitsBar::LeftEdgeAnchor"
+                          },
+                          "parameters": [
+                            "",
+                            "=",
+                            "\"Max\"",
+                            "Bar",
+                            "Anchor",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TiledUnitsBar::RightEdgeAnchor"
+                          },
+                          "parameters": [
+                            "",
+                            "=",
+                            "\"Max\"",
+                            "Bar",
+                            "Anchor",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreX"
+                          },
+                          "parameters": [
+                            "Bar",
+                            "-",
+                            "NewWidth - Bar.Width()"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                          },
+                          "parameters": [
+                            "Bar",
+                            "Resizable",
+                            "=",
+                            "NewWidth"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                          },
+                          "parameters": [
+                            "FillBar",
+                            "Resizable",
+                            "=",
+                            "Object.Value() * UnitWidth"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "MettreX"
+                          },
+                          "parameters": [
+                            "FillBar",
+                            "=",
+                            "Bar.X()"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "TiledUnitsBar::LeftEdgeAnchor"
+                          },
+                          "parameters": [
+                            "",
+                            "=",
+                            "\"Max\"",
+                            "Bar",
+                            "Anchor",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TiledUnitsBar::RightEdgeAnchor"
+                          },
+                          "parameters": [
+                            "",
+                            "=",
+                            "\"Max\"",
+                            "Bar",
+                            "Anchor",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "MettreX"
+                          },
+                          "parameters": [
+                            "FillBar",
+                            "=",
+                            "Bar.X() + Bar.Width() - FillBar.Width()"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "variables": [
+                    {
+                      "name": "NewWidth",
+                      "type": "number",
+                      "value": 0
                     }
                   ]
                 }
@@ -44560,7 +44833,7 @@
                 {
                   "description": "Object",
                   "name": "Object",
-                  "supplementaryInformation": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
                   "type": "object"
                 }
               ],
@@ -44571,12 +44844,14 @@
             {
               "value": "3",
               "type": "Number",
+              "unit": "Dimensionless",
               "label": "Maximum value",
               "name": "MaxValue"
             },
             {
               "value": "3",
               "type": "Number",
+              "unit": "Dimensionless",
               "label": "Initial value",
               "name": "InitialValue"
             },
@@ -44589,201 +44864,89 @@
               "name": "PreviousInitialValue"
             },
             {
-              "value": "1",
+              "value": "24",
               "type": "Number",
-              "unit": "Second",
-              "label": "Previous high value conservation duration (in seconds)",
-              "group": "Animation",
-              "name": "PreviousHighValueDuration"
-            },
-            {
-              "value": "0.25",
-              "type": "Number",
-              "unit": "Second",
-              "label": "Easing duration",
-              "group": "Animation",
-              "name": "EasingDuration"
-            },
-            {
-              "value": "true",
-              "type": "Boolean",
-              "label": "Show the label",
-              "extraInformation": [
-                "Label"
-              ],
-              "choices": [],
-              "name": "ShowLabel"
-            },
-            {
-              "value": "0",
-              "type": "Number",
-              "label": "",
-              "hidden": true,
-              "name": "BarLeftPlusRightMargin"
-            },
-            {
-              "value": "0",
-              "type": "Number",
-              "label": "",
-              "hidden": true,
-              "name": "BarTopPlusBottomMargin"
-            },
-            {
-              "value": "0",
-              "type": "Number",
-              "label": "",
-              "hidden": true,
-              "name": "OldParentWidth"
+              "unit": "Pixel",
+              "label": "Unit width",
+              "description": "How much pixels to show for a value of 1.",
+              "name": "UnitWidth"
             }
           ],
           "variants": [
             {
-              "areaMaxX": 397,
-              "areaMaxY": 35,
+              "areaMaxX": 48,
+              "areaMaxY": 16,
               "areaMaxZ": 64,
               "areaMinX": 0,
               "areaMinY": 0,
               "areaMinZ": 0,
-              "assetStoreAssetId": "805020d83a9f62501db39c113f2b92bb91f651bb9e462ae5f83d1412c35d3d8a",
-              "assetStoreOriginalName": "Wood Yellow Bar",
-              "name": "Wood Yellow Bar",
+              "assetStoreAssetId": "db57d0bcdc074868304ca46431ac85fcef3f613be5fba73ae0adc26ee2c8629b",
+              "assetStoreOriginalName": "Pixel Heart Bar",
+              "name": "Pixel Heart Bar",
               "objects": [
                 {
                   "assetStoreId": "",
-                  "bold": false,
-                  "italic": false,
-                  "name": "Label",
-                  "smoothed": true,
-                  "type": "TextObject::Text",
-                  "underlined": false,
-                  "variables": [],
-                  "effects": [],
-                  "behaviors": [
-                    {
-                      "name": "Anchor",
-                      "type": "AnchorBehavior::AnchorBehavior",
-                      "bottomEdgeAnchor": 2,
-                      "leftEdgeAnchor": 1,
-                      "relativeToOriginalWindowSize": true,
-                      "rightEdgeAnchor": 2,
-                      "topEdgeAnchor": 1,
-                      "useLegacyBottomAndRightAnchors": false
-                    }
-                  ],
-                  "string": "8 / 16",
-                  "font": "",
-                  "textAlignment": "center",
-                  "characterSize": 16,
-                  "color": {
-                    "b": 0,
-                    "g": 0,
-                    "r": 0
-                  },
-                  "content": {
-                    "bold": false,
-                    "isOutlineEnabled": false,
-                    "isShadowEnabled": false,
-                    "italic": false,
-                    "outlineColor": "255;255;255",
-                    "outlineThickness": 2,
-                    "shadowAngle": 90,
-                    "shadowBlurRadius": 2,
-                    "shadowColor": "0;0;0",
-                    "shadowDistance": 4,
-                    "shadowOpacity": 127,
-                    "smoothed": true,
-                    "underlined": false,
-                    "text": "8 / 16",
-                    "font": "",
-                    "textAlignment": "center",
-                    "verticalTextAlignment": "center",
-                    "characterSize": 16,
-                    "lineHeight": 0,
-                    "color": "0;0;0"
-                  }
-                },
-                {
-                  "assetStoreId": "",
-                  "bottomMargin": 9,
-                  "height": 19,
-                  "leftMargin": 6,
+                  "height": 16,
                   "name": "FillBar",
-                  "rightMargin": 6,
-                  "texture": "Shaded Yellow Fill Bar.png",
-                  "tiled": false,
-                  "topMargin": 9,
-                  "type": "PanelSpriteObject::PanelSprite",
-                  "width": 19,
+                  "texture": "tiled_Tiled Filler UI Heart.png",
+                  "type": "TiledSpriteObject::TiledSprite",
+                  "width": 16,
                   "variables": [],
                   "effects": [],
                   "behaviors": [
                     {
                       "name": "Anchor",
                       "type": "AnchorBehavior::AnchorBehavior",
-                      "bottomEdgeAnchor": 2,
-                      "leftEdgeAnchor": 1,
+                      "bottomEdgeAnchor": 0,
+                      "leftEdgeAnchor": 0,
+                      "rightEdgeAnchor": 0,
+                      "topEdgeAnchor": 0,
                       "relativeToOriginalWindowSize": true,
-                      "rightEdgeAnchor": 2,
-                      "topEdgeAnchor": 1,
                       "useLegacyBottomAndRightAnchors": false
                     },
                     {
                       "name": "ResourceBar",
-                      "type": "PanelSpriteContinuousBar::ResourceBar",
+                      "type": "TiledUnitsBar::ResourceBar",
                       "Value": 1,
                       "MaxValue": 3,
-                      "PreviousValue": 0,
-                      "CurrentValue": 1
-                    },
-                    {
-                      "name": "Tween",
-                      "type": "Tween::TweenBehavior"
+                      "PreviousValue": 0
                     }
                   ]
                 },
                 {
                   "assetStoreId": "",
-                  "bottomMargin": 9,
-                  "height": 19,
-                  "leftMargin": 6,
-                  "name": "Buffer",
-                  "rightMargin": 6,
-                  "texture": "Shaded Yellow Fill Bar.png",
-                  "tiled": false,
-                  "topMargin": 9,
-                  "type": "PanelSpriteObject::PanelSprite",
-                  "width": 19,
+                  "height": 16,
+                  "name": "Bar",
+                  "texture": "tiled_Tiled Empty UI Heart.png",
+                  "type": "TiledSpriteObject::TiledSprite",
+                  "width": 48,
                   "variables": [],
                   "effects": [],
                   "behaviors": [
                     {
                       "name": "Anchor",
                       "type": "AnchorBehavior::AnchorBehavior",
-                      "bottomEdgeAnchor": 2,
-                      "leftEdgeAnchor": 1,
+                      "bottomEdgeAnchor": 0,
+                      "leftEdgeAnchor": 0,
+                      "rightEdgeAnchor": 0,
+                      "topEdgeAnchor": 0,
                       "relativeToOriginalWindowSize": true,
-                      "rightEdgeAnchor": 2,
-                      "topEdgeAnchor": 1,
                       "useLegacyBottomAndRightAnchors": false
-                    },
-                    {
-                      "name": "Tween",
-                      "type": "Tween::TweenBehavior"
                     }
                   ]
                 },
                 {
                   "assetStoreId": "",
-                  "bottomMargin": 8,
-                  "height": 35,
-                  "leftMargin": 10,
+                  "bottomMargin": 0,
+                  "height": 0,
+                  "leftMargin": 0,
                   "name": "Background",
-                  "rightMargin": 10,
-                  "texture": "Wood Bar Border.png",
-                  "tiled": true,
-                  "topMargin": 8,
+                  "rightMargin": 0,
+                  "texture": "",
+                  "tiled": false,
+                  "topMargin": 0,
                   "type": "PanelSpriteObject::PanelSprite",
-                  "width": 397,
+                  "width": 0,
                   "variables": [],
                   "effects": [],
                   "behaviors": [
@@ -44804,13 +44967,10 @@
                 "folderName": "__ROOT",
                 "children": [
                   {
-                    "objectName": "Label"
-                  },
-                  {
                     "objectName": "FillBar"
                   },
                   {
-                    "objectName": "Buffer"
+                    "objectName": "Bar"
                   },
                   {
                     "objectName": "Background"
@@ -44853,12 +45013,11 @@
                 {
                   "angle": 0,
                   "customSize": false,
-                  "depth": 1,
-                  "height": 64,
+                  "height": 16,
                   "layer": "",
-                  "name": "Background",
-                  "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
-                  "width": 64,
+                  "name": "Bar",
+                  "persistentUuid": "0bc17780-1629-4494-8eb7-0fb46d818b51",
+                  "width": 49,
                   "x": 0,
                   "y": 0,
                   "zOrder": 1,
@@ -44869,31 +45028,15 @@
                 {
                   "angle": 0,
                   "customSize": true,
-                  "depth": 0,
-                  "height": 19,
+                  "depth": 2,
+                  "height": 16,
                   "layer": "",
                   "name": "FillBar",
-                  "persistentUuid": "c517f5e9-fe61-45c0-b14c-744556e7c3b7",
-                  "width": 377,
-                  "x": 10,
-                  "y": 8,
+                  "persistentUuid": "92a97eef-aaa6-4dce-a07b-a96bd82f662d",
+                  "width": 32,
+                  "x": 0,
+                  "y": 0,
                   "zOrder": 2,
-                  "numberProperties": [],
-                  "stringProperties": [],
-                  "initialVariables": []
-                },
-                {
-                  "angle": 0,
-                  "customSize": true,
-                  "depth": 0,
-                  "height": 20,
-                  "layer": "",
-                  "name": "Label",
-                  "persistentUuid": "9f55f114-2cef-4eb2-bcbc-f248c5477609",
-                  "width": 377,
-                  "x": 10,
-                  "y": 18,
-                  "zOrder": 3,
                   "numberProperties": [],
                   "stringProperties": [],
                   "initialVariables": []
