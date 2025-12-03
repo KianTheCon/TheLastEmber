@@ -3291,6 +3291,246 @@
         "name": "No Shadow",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/tiled_Dirt1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Dirt1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/33bc3ce7c2b266c7584e7f0b120e4098a6c90e237e361d99323e02e1c8c50afc_tiled_Dirt1.png",
+          "name": "tiled_Dirt1.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Brick3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Brick3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/821a1cde78a58eae605bc09ebb4b3d91b1d1bda569cea742ff74470a0068dc2e_tiled_Brick3.png",
+          "name": "tiled_Brick3.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Dirt2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Dirt2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/f74521b64a2f3730f55e66325920f92111dbbe1e43eee50566840fc2b82b0bcf_tiled_Dirt2.png",
+          "name": "tiled_Dirt2.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Brick1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Brick1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/502a7d0567c2420c5ebe7934479d54bb4f0b394c8d01323bfe48f2161f87cced_tiled_Brick1.png",
+          "name": "tiled_Brick1.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Brick2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Brick2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/4aff911b77a74ec85d226e2b355e36132cc4c098f51ebdb68829f1cdf6114296_tiled_Brick2.png",
+          "name": "tiled_Brick2.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Brick4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Brick4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/5ac44054e7176a6af4aa0ad6f3b0fab91a318ac1a10d39186306a15c2a0e521b_tiled_Brick4.png",
+          "name": "tiled_Brick4.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Grass3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/94bc784b956cf6708b8af6182dd3f3f095ef177ac45d15026a538c1e2bab46bb_tiled_Grass3.png",
+          "name": "tiled_Grass3.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Grass2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/56c74486b789657d72777e8c74bc5f720923d43f41a598636cc34c1bec5046b0_tiled_Grass2.png",
+          "name": "tiled_Grass2.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Grass1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/85be5683bde687f5ee621cb6af57e360aeb18d6f74b2a14db8eeb4cffe93251e_tiled_Grass1.png",
+          "name": "tiled_Grass1.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Dirt3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Dirt3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/4037ee066d9871d81b5a705e225517546bb5a5811dfdb64f9106a8f75ebb71c5_tiled_Dirt3.png",
+          "name": "tiled_Dirt3.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Grass5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/b6e9029f1fd48b677d55dda50e3dd47d5cff19b1635fe72be8f78599cc1dc5c0_tiled_Grass5.png",
+          "name": "tiled_Grass5.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Dirt4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Dirt4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/961824ae292894d8bdf79f07d880795211e4a33d4a297d9170c64c2593b73b07_tiled_Dirt4.png",
+          "name": "tiled_Dirt4.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Grass7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/490584f8c27e33df9b761fb334a7529c56ba733f29785c18f9fa65c5dab48bc9_tiled_Grass7.png",
+          "name": "tiled_Grass7.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Grass6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/29a7eb193f4ef9e6fe49872fd3b3458f3587c8ee4b9f7c7a94b497c56e47257c_tiled_Grass6.png",
+          "name": "tiled_Grass6.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Grass4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/2f5c03afe2af48a4ac33ad3dbf13565ffe260b9e539e390280f963d06bbd9587_tiled_Grass4.png",
+          "name": "tiled_Grass4.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Grass8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/3e76f78e35eb1f8a1f2dcb97e575c422af3c15c794f1df655ecaec568b1f63d4_tiled_Grass8.png",
+          "name": "tiled_Grass8.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Ground1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Ground1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/80d36287203659748c8c5fb3c075225705ebcaabd379cdde9f1a3c5b68ab7ab5_tiled_Ground1.png",
+          "name": "tiled_Ground1.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Ground3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Ground3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/d78d8a615c6d4d6715034e4380188a3062d75caebc382527332e2be3dcfcaf05_tiled_Ground3.png",
+          "name": "tiled_Ground3.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Ground4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Ground4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/4be9859cceef6c04f89a8d9b01040ed390c02c7f371626a7cfe0376e9ac53589_tiled_Ground4.png",
+          "name": "tiled_Ground4.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Ground2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Ground2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/e3dd02bd62d7567f06253716b7c9ffb4cb05bea70b89ed17d6700a1a0ac7dfd1_tiled_Ground2.png",
+          "name": "tiled_Ground2.png"
+        }
       }
     ]
   },
@@ -4417,7 +4657,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4633111824514431,
+        "zoomFactor": 2.2762478393839354,
         "windowMask": true,
         "selectedLayer": ""
       },
@@ -20782,9 +21022,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.565315805512688,
+        "zoomFactor": 0.5290357402157377,
         "windowMask": true,
-        "selectedLayer": "UI"
+        "selectedLayer": "Background"
       },
       "objectsGroups": [],
       "variables": [
@@ -20871,38 +21111,6 @@
           "x": 1978,
           "y": 450,
           "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 47,
-          "layer": "",
-          "name": "Platform_Ground",
-          "persistentUuid": "1c4f7ab9-04d4-4cee-8572-96199ce1245c",
-          "width": 864,
-          "x": 64,
-          "y": 544,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 47,
-          "layer": "",
-          "name": "Platform_Ground",
-          "persistentUuid": "e595746c-dfaa-4c91-a246-d36934b5a906",
-          "width": 288,
-          "x": 64,
-          "y": 352,
-          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -21001,26 +21209,9 @@
           "name": "Platformer_Character",
           "persistentUuid": "98e40da7-9741-4f3f-b156-cb3296f94a6e",
           "width": 87,
-          "x": 124,
-          "y": 230,
+          "x": 73,
+          "y": 345,
           "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "guideTrigger",
-          "persistentUuid": "82be8d02-4f3b-4bad-959d-4f3d3d1ac553",
-          "width": 565,
-          "x": 361,
-          "y": 337,
-          "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -21077,22 +21268,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "snow",
-          "persistentUuid": "5b5dd73c-31de-4062-9994-a5bb1b0bdb4f",
-          "width": 0,
-          "x": 67,
-          "y": 290,
-          "zOrder": 94,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 1,
           "height": 342,
@@ -21120,6 +21295,40 @@
           "x": 3,
           "y": 626,
           "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 718,
+          "keepRatio": true,
+          "layer": "Background",
+          "name": "Ground3",
+          "persistentUuid": "139f6543-ce95-4cd8-ac80-47d9de1be2af",
+          "width": 1279,
+          "x": 2,
+          "y": 1,
+          "zOrder": 175,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 58,
+          "keepRatio": true,
+          "layer": "Background",
+          "name": "Toucable_ground",
+          "persistentUuid": "ffba6234-4772-45f6-a005-c8c7d7a64b56",
+          "width": 512,
+          "x": 55,
+          "y": 490,
+          "zOrder": 176,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31928,6 +32137,245 @@
             "lineHeight": 0,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "4d2d31ff684c8a40b7fa96172550ee022c14aaea173d3ffd1d4a2b67460f7bb3",
+          "height": 512,
+          "name": "Dirt1",
+          "texture": "tiled_Dirt1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "fad388d5b03fd85459567c968deb7d39df2ab923240826b6e823e7dc09c2e760",
+          "height": 512,
+          "name": "Brick3",
+          "texture": "tiled_Brick3.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "742252fc01d00101e3233a80d4b36164515cfc015a02f59671022d7db92114e6",
+          "height": 512,
+          "name": "Dirt2",
+          "texture": "tiled_Dirt2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "0c7f6f15c89710df7c76e732463366c1d2480d7064f132e655ada26b6fd594f8",
+          "height": 512,
+          "name": "Brick1",
+          "texture": "tiled_Brick1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "e76e4d237b00b90d03015cc08be2d627146a58ed4eec72946f6c1c5ba5b27796",
+          "height": 512,
+          "name": "Brick2",
+          "texture": "tiled_Brick2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "1a2af5c9fcd65efba3095a529ca4e9fd6aeba1454bfefc34699d998fb50a95dd",
+          "height": 512,
+          "name": "Brick4",
+          "texture": "tiled_Brick4.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "4074a330fb040b1527b814ff9e64aa8e9c5289f4e441130a3c02c0f78db71e5e",
+          "height": 512,
+          "name": "Grass3",
+          "texture": "tiled_Grass3.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "0bcc429b6cb259a7297640eae9bfc91fe0c6ea9defd96db32868844b6868cd8e",
+          "height": 512,
+          "name": "Grass2",
+          "texture": "tiled_Grass2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "6df0cff98feb6b117da8ff6c96867b65517749f8c3946a162f658c56d8e8a0dc",
+          "height": 512,
+          "name": "Grass1",
+          "texture": "tiled_Grass1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "f0f8f2e1209e63b1db8b04261e3aae94e3308df27c8fb367851c81ac0647dccc",
+          "height": 512,
+          "name": "Dirt3",
+          "texture": "tiled_Dirt3.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "7d0a7782832b6fa0914e79f4dd51a2a570e5f9664dc8630e46ea7a7e1b80b66d",
+          "height": 512,
+          "name": "Grass5",
+          "texture": "tiled_Grass5.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "6f0897764a8688a183e3e7b1f62e8adc35ed6cdbc84d78a4a9e0cf44ba6b1aa5",
+          "height": 512,
+          "name": "Dirt4",
+          "texture": "tiled_Dirt4.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "94347ece65f425f4e0b5145757435f63f205e52807d05f0a100addff465846fa",
+          "height": 512,
+          "name": "Grass7",
+          "texture": "tiled_Grass7.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "bcbd9e71dc3bacd41739e0c0291468da8e27101c42dfddeefcc2b9f5c2489d5f",
+          "height": 512,
+          "name": "Grass6",
+          "texture": "tiled_Grass6.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "1ba20d50866edc8f0372486ab2e230cd8a8be6d74d6a768a14c7c5b563050f9b",
+          "height": 512,
+          "name": "Grass4",
+          "texture": "tiled_Grass4.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "5f90c586d878e13fecd2a3cac659e5c53a80f5f54f2473bd61d81aef212f4258",
+          "height": 512,
+          "name": "Grass8",
+          "texture": "tiled_Grass8.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "ef70799253f88e1863b5c91e4444f1815d07024334c1454a1728022ba08cd947",
+          "height": 512,
+          "name": "Ground1",
+          "texture": "tiled_Ground1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "35507a1d1a568a8718460a19cfef629dbe33b556983f0abe2859824d211b668e",
+          "height": 512,
+          "name": "Ground3",
+          "texture": "tiled_Ground3.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "eb311aafb544e4bcaeea91208fc3b5c4107902c4ecde74f4aa3a5f6698b7e22f",
+          "height": 512,
+          "name": "Ground4",
+          "texture": "tiled_Ground4.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "527f1ebb0b788a709d10bd09428ee9249eb12cff04514d868b4760a036deeb95",
+          "height": 512,
+          "name": "Ground2",
+          "texture": "tiled_Ground2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "ef70799253f88e1863b5c91e4444f1815d07024334c1454a1728022ba08cd947",
+          "height": 512,
+          "name": "Toucable_ground",
+          "texture": "tiled_Ground1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 512,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -32161,6 +32609,69 @@
           },
           {
             "objectName": "LifeForceTxt"
+          },
+          {
+            "objectName": "Dirt1"
+          },
+          {
+            "objectName": "Brick3"
+          },
+          {
+            "objectName": "Dirt2"
+          },
+          {
+            "objectName": "Brick1"
+          },
+          {
+            "objectName": "Brick2"
+          },
+          {
+            "objectName": "Brick4"
+          },
+          {
+            "objectName": "Grass3"
+          },
+          {
+            "objectName": "Grass2"
+          },
+          {
+            "objectName": "Grass1"
+          },
+          {
+            "objectName": "Dirt3"
+          },
+          {
+            "objectName": "Grass5"
+          },
+          {
+            "objectName": "Dirt4"
+          },
+          {
+            "objectName": "Grass7"
+          },
+          {
+            "objectName": "Grass6"
+          },
+          {
+            "objectName": "Grass4"
+          },
+          {
+            "objectName": "Grass8"
+          },
+          {
+            "objectName": "Ground1"
+          },
+          {
+            "objectName": "Toucable_ground"
+          },
+          {
+            "objectName": "Ground3"
+          },
+          {
+            "objectName": "Ground4"
+          },
+          {
+            "objectName": "Ground2"
           }
         ]
       },
@@ -34414,7 +34925,7 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": true,
+          "isLocked": false,
           "name": "Background",
           "renderingType": "",
           "visibility": true,
