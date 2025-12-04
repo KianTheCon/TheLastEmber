@@ -22002,7 +22002,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.35411282235394964,
+        "zoomFactor": 0.2715921368474082,
         "windowMask": true,
         "selectedLayer": ""
       },
@@ -22994,8 +22994,8 @@
           "name": "Winter_Tile_Water",
           "persistentUuid": "8edbbd7b-843b-4560-9f46-6789026cb962",
           "width": 2933,
-          "x": 6007,
-          "y": 773,
+          "x": 6009,
+          "y": 770,
           "zOrder": 217,
           "numberProperties": [],
           "stringProperties": [],
@@ -23028,8 +23028,8 @@
           "name": "Boat_W_Sail",
           "persistentUuid": "e153f892-bc8d-40fb-9b19-624db0b40ebe",
           "width": 235,
-          "x": 6130,
-          "y": 794,
+          "x": 6119,
+          "y": 730,
           "zOrder": 220,
           "numberProperties": [],
           "stringProperties": [],
@@ -39800,6 +39800,7 @@
           ]
         },
         {
+          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
