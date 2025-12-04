@@ -22002,7 +22002,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2902173065853612,
+        "zoomFactor": 0.2300922040087295,
         "windowMask": true,
         "selectedLayer": "UI"
       },
@@ -40320,7 +40320,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5843784410741562,
+        "zoomFactor": 0.7130377630691168,
         "windowMask": true,
         "selectedLayer": ""
       },
@@ -52809,7 +52809,7 @@
               "RandomizedAngle": 0
             },
             {
-              "isFolded": true,
+              "maxSpeed": 500,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
@@ -52823,7 +52823,6 @@
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
-              "maxSpeed": 250,
               "slopeMaxAngle": 60,
               "useLegacyTrajectory": false,
               "useRepeatedJump": false,
@@ -52831,16 +52830,16 @@
               "yGrabOffset": 0
             },
             {
+              "acceleration": 400,
+              "deceleration": 800,
+              "maxSpeed": 400,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
-              "acceleration": 400,
               "allowDiagonals": false,
               "angleOffset": 0,
               "angularMaxSpeed": 0,
               "customIsometryAngle": 30,
-              "deceleration": 800,
               "ignoreDefaultControls": false,
-              "maxSpeed": 200,
               "movementAngleOffset": 0,
               "rotateObject": false,
               "useLegacyTurnBack": false,
@@ -52855,7 +52854,7 @@
                 {
                   "looping": true,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 1,
+                  "timeBetweenFrames": 0.6,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -53621,8 +53620,8 @@
           "effects": [],
           "behaviors": [],
           "content": {
-            "InitialValue": 100,
-            "MaxValue": 100,
+            "InitialValue": 500,
+            "MaxValue": 500,
             "BarTopPadding": 8,
             "BarRightPadding": 10,
             "BarBottomPadding": 8,
@@ -57670,7 +57669,7 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": true,
+          "isLocked": false,
           "name": "Golem health bar",
           "renderingType": "",
           "visibility": false,
