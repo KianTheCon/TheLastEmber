@@ -40320,9 +40320,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7130377630691168,
+        "zoomFactor": 0.3673257545059218,
         "windowMask": true,
-        "selectedLayer": ""
+        "selectedLayer": "Golem health bar"
       },
       "objectsGroups": [],
       "variables": [
@@ -53620,8 +53620,8 @@
           "effects": [],
           "behaviors": [],
           "content": {
-            "InitialValue": 500,
-            "MaxValue": 500,
+            "InitialValue": 250,
+            "MaxValue": 250,
             "BarTopPadding": 8,
             "BarRightPadding": 10,
             "BarBottomPadding": 8,
@@ -55292,7 +55292,7 @@
                   "parameters": [
                     "WoodYellowBar",
                     "+",
-                    "1",
+                    "5",
                     ""
                   ]
                 }
@@ -57243,13 +57243,24 @@
           "actions": [
             {
               "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                "value": "SetBooleanVariable"
               },
               "parameters": [
-                "WoodYellowBar",
-                "+",
-                "5",
+                "MiniAction",
+                "True",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "PickupCoin",
+                "",
+                "80",
+                "RandomFloatInRange(1,1.1)"
               ]
             },
             {
