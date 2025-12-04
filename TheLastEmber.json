@@ -22002,7 +22002,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2300922040087295,
+        "zoomFactor": 0.09397651794027953,
         "windowMask": true,
         "selectedLayer": "UI"
       },
@@ -22270,7 +22270,7 @@
           "layer": "",
           "name": "DeathZone",
           "persistentUuid": "de1857b6-b445-4d93-847b-ed55cdfdc653",
-          "width": 14322,
+          "width": 14861,
           "x": -1846,
           "y": 1431,
           "zOrder": 158,
