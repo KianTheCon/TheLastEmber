@@ -22002,9 +22002,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.09397651794027953,
+        "zoomFactor": 0.7345289539499417,
         "windowMask": true,
-        "selectedLayer": "UI"
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -22204,9 +22204,9 @@
           "name": "Platformer_Character",
           "persistentUuid": "98e40da7-9741-4f3f-b156-cb3296f94a6e",
           "width": 64,
-          "x": 67,
-          "y": 357,
-          "zOrder": 13,
+          "x": 83,
+          "y": 214,
+          "zOrder": 304,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -35621,7 +35621,7 @@
             "isCastingShadow": true,
             "isReceivingShadow": true,
             "keepAspectRatio": true,
-            "materialType": "StandardWithoutMetalness",
+            "materialType": "Basic",
             "modelResourceName": "Boat W Sail.glb",
             "originLocation": "ModelOrigin",
             "rotationX": 90,
