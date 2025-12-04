@@ -19717,11 +19717,14 @@
                 "var playerY = runtimeScene.getObjects(\"Platformer_Character\")[0].getY();",
                 "var cursorX = runtimeScene.getGame().getInputManager().getCursorX();",
                 "var cursorY = runtimeScene.getGame().getInputManager().getCursorY();",
-                "var normX = (cursorX - playerX)/player.getDistanceToPosition(cursorX, cursorY);",
-                "var normY = (cursorY - playerY)/player.getDistanceToPosition(cursorX, cursorY);",
+                "",
+                "var dist = Math.sqrt((cursorX - 640)**2 + (cursorY - 320)**2);",
+                "// var dist = player.getDistanceToPosition(cursorX, cursorY);",
+                "var normX = (cursorX - 640)/dist;",
+                "var normY = (cursorY - 320)/dist;",
                 "",
                 "var scope = 1;//runtimeScene.getVariables().get(\"Scope\").getAsNumber();",
-                "",
+                "console.log(normX, normY)",
                 "runtimeScene.getLayer(\"Base layer\").setCameraX((scope * normX * 400) + playerX);",
                 "runtimeScene.getLayer(\"Base layer\").setCameraY((scope * normY * 400) + playerY);"
               ],
@@ -51692,8 +51695,8 @@
           "behaviors": [
             {
               "name": "Platform",
-              "platformType": "Jumpthru",
               "type": "PlatformBehavior::PlatformBehavior",
+              "platformType": "Jumpthru",
               "canBeGrabbed": true,
               "yGrabOffset": 0
             }
