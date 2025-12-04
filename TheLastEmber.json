@@ -22002,9 +22002,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.08507661001327786,
+        "zoomFactor": 0.2902173065853612,
         "windowMask": true,
-        "selectedLayer": ""
+        "selectedLayer": "UI"
       },
       "objectsGroups": [],
       "variables": [
@@ -23413,23 +23413,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 441,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Breakable_Blue_block",
-          "persistentUuid": "2fdef7b2-d9cb-4d69-81ba-27c5b7f403a0",
-          "width": 108,
-          "x": 11137,
-          "y": -234,
-          "zOrder": 245,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 70,
           "keepRatio": true,
           "layer": "",
@@ -24172,6 +24155,22 @@
           "x": 1528,
           "y": 637,
           "zOrder": 303,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "Boat_Controls",
+          "persistentUuid": "ae2a2ce8-0124-4137-9304-6f5c53cfa338",
+          "width": 0,
+          "x": 8,
+          "y": 63,
+          "zOrder": 304,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -36278,6 +36277,49 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Boat_Controls",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Z, X, C, V - Left, Down, Right, Up",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Z, X, C, V - Left, Down, Right, Up",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -36652,6 +36694,9 @@
           },
           {
             "objectName": "MetalRedBar"
+          },
+          {
+            "objectName": "Boat_Controls"
           }
         ]
       },
@@ -39806,6 +39851,94 @@
               "parameters": [
                 "Fire_Ball",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Boat UI"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Boat_Controls"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Platformer_Character",
+                "Boat_W_Sail",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "Boat_Controls",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "EscapeRoom2",
+                "=",
+                "5"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Boat_Controls"
               ]
             }
           ]
