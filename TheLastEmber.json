@@ -4459,7 +4459,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.76193626771976,
+        "zoomFactor": 0.5290357402156839,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -4869,7 +4869,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9296875000000003,
+        "zoomFactor": 0.787629010167376,
         "windowMask": false,
         "selectedLayer": "Character"
       },
@@ -5634,7 +5634,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3437520241612667,
+        "zoomFactor": 0.43357743047028213,
         "windowMask": true,
         "selectedLayer": ""
       },
@@ -22002,7 +22002,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2715921368474082,
+        "zoomFactor": 0.34256153434310754,
         "windowMask": true,
         "selectedLayer": ""
       },
@@ -22204,8 +22204,8 @@
           "name": "Platformer_Character",
           "persistentUuid": "98e40da7-9741-4f3f-b156-cb3296f94a6e",
           "width": 64,
-          "x": 5884,
-          "y": 425,
+          "x": 76,
+          "y": 249,
           "zOrder": 304,
           "numberProperties": [],
           "stringProperties": [],
@@ -40321,7 +40321,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3673257545059218,
+        "zoomFactor": 0.3797121001948343,
         "windowMask": true,
         "selectedLayer": "Golem health bar"
       },
