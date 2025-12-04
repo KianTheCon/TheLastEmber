@@ -38471,7 +38471,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.17708595277545802,
+        "zoomFactor": 0.14513286445534673,
         "windowMask": true,
         "selectedLayer": ""
       },
@@ -50556,7 +50556,15 @@
           "width": 512,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "assetStoreId": "e76e4d237b00b90d03015cc08be2d627146a58ed4eec72946f6c1c5ba5b27796",
